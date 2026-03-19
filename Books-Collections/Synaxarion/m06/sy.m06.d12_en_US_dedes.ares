@@ -1,0 +1,63 @@
+A_Resource_Whose_Name = sy.m06.d12_en_US_dedes
+
+syMA.commemoration01.text = "On June 12 we commemorate our devout Father Onouphrios of Egypt."
+syMA.commemoration01as02.text = "On this day we also commemorate our devout Father Onouphrios of Egypt."
+syMA.commemoration01.couplet1.title = titles_en_US_dedes.ti.Verses
+syMA.commemoration01.couplet1.verse1 = ""
+syMA.commemoration01.couplet1.verse2 = ""
+syMA.commemoration01.single1 = ""
+syMA.commemoration01.narration.p01 = ""
+syMA.commemoration01.narration.p02 = ""
+
+syMA.commemoration02.text = "On this day we also commemorate our righteous Father Peter of Athos."
+syMA.commemoration02.couplet1.title = titles_en_US_dedes.ti.Verses
+syMA.commemoration02.couplet1.verse1 = ""
+syMA.commemoration02.couplet1.verse2 = ""
+
+syMA.commemoration03.text = "On this day we also commemorate the Holy Martyr Antonina."
+syMA.commemoration03.couplet1.title = titles_en_US_dedes.ti.Verses
+syMA.commemoration03.couplet1.verse1 = ""
+syMA.commemoration03.couplet1.verse2 = ""
+syMA.commemoration03.narration.p01 = ""
+
+syMA.commemoration04.text = "On this day we commemorate Holy John the soldier; and our devout Fathers Zeno and Triphyllios the Bishop; and our devout Father Julian in Dagatos (or Dagazos)."
+syMA.commemoration04.couplet1.title = ""
+syMA.commemoration04.couplet1.verse1 = ""
+syMA.commemoration04.couplet1.verse2 = ""
+syMA.commemoration04.couplet2.title = ""
+syMA.commemoration04.couplet2.verse1 = ""
+syMA.commemoration04.couplet2.verse2 = ""
+syMA.commemoration04.couplet3.title = ""
+syMA.commemoration04.couplet3.verse1 = ""
+syMA.commemoration04.couplet3.verse2 = ""
+syMA.commemoration04.couplet4.title = ""
+syMA.commemoration04.couplet4.verse1 = ""
+syMA.commemoration04.couplet4.verse2 = ""
+
+//syMA.commemoration05.text = "On this day we also commemorate our father among the saints Gerasimos, Bishop of Abydos, erudite professor at Holy Cross School of Theology in Brookline, MA, and Teacher of America."
+//syMA.commemoration05.couplet1.title = titles_en_US_dedes.ti.Verses
+//syMA.commemoration05.couplet1.verse1 = ""
+//syMA.commemoration05.couplet1.verse2 = ""
+//syMA.commemoration05.narration.p01 = ""
+
+//alt1.syMA.commemoration01.text = "On June 12 we commemorate our father among the saints Gerasimos, Bishop of Abydos, erudite professor at Holy Cross School of Theology in Brookline, MA, and Teacher of America."
+//alt1.syMA.commemoration01.couplet1.title = "Couplet"
+//alt1.syMA.commemoration01.couplet1.verse1 = "Gerasimos, as a vessel of the Holy Spirit,"
+//alt1.syMA.commemoration01.couplet1.verse2 = "you became a wise professor and bishop."
+//alt1.syMA.commemoration01.narration.p01 = ""
+//alt1.syMA.lastline = "By his holy intercessions, Christ God, have mercy on us and save us. Amen."
+
+syMA.lastline = "By their holy intercessions, Christ God, have mercy on us. Amen."
+
+cl.syMA.commemoration01.text = "[saint/com 1]"
+
+cl.syMA.commemoration02.text = "[saint/com 2]"
+
+cl.syMA.commemoration03.text = "[saint/com 3]"
+
+cl.syMA.commemoration04.text = "[saint/com 4]"
+
+cl.syMA.commemoration05.text = "[saint/com 5]"
+
+cl.syMA.commemoration06.text = "[saint/com list]"
+
