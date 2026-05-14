@@ -199,3 +199,5 @@ ru.transfer.service.date.jun04 = "The memory of St. Metrophanes of Constantinopl
 ru.transfer.service.date.jun24 = "The memory of the Birth of St. John the Baptist is transferred to this day from June 24."
 
 ru.unavailable.octoechos = "Note that, because the GOA does not yet have access to a full Octoechos in English, the Troparia of those Canons may be missing, but the verses remain, in order to preserve the order of the service."
+
+ru.sb.InPlaceOfRightChoir = "" //(in place of the Right Choir)
