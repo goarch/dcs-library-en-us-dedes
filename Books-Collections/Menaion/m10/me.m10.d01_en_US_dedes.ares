@@ -63,9 +63,9 @@ meVE.SticGlory.text = "O Apostle, you baptized and illumined the Apostle Paul, t
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
 meVE.SticTheotokion.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
-meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.notmetered
-meVE.SticTheotokion.incipit = "O Lady, as a deep…"
-meVE.SticTheotokion.text = "O Lady, as a deep ocean of mercy, have mercy on me, for I have sunk into the depths of impurity. Wash away all the filth of my passions, with my tears of repentance; and make me shine again, through godly compunction; by which grant me a truly humble frame of mind, and saving contrition of heart."
+meVE.SticTheotokion.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
+meVE.SticTheotokion.incipit = "…"
+meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode1
 meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
