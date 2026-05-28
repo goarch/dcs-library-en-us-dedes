@@ -47,15 +47,15 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
-meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.notmetered
-meVE.SticTheotokion.incipit = "All creation salutes you, shouting:…"
-meVE.SticTheotokion.text = "All creation salutes you, shouting: “Rejoice, all-holy Virgin! Rejoice, the scepter of David! Rejoice, for you blossomed the mystical cluster of grapes! Rejoice, heavenly gate, and unburnt bush! Rejoice, light for the whole world! Rejoice, joy of all people! Rejoice, the glory of the Apostles! Rejoice, our helper! Rejoice, the protection of all who honor you!”"
+meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
+meVE.SticTheotokion.incipit = "…"
+meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticStavrotheotokion.incipit = "When the all-blameless Ewe-lamb beheld…"
-meVE.SticStavrotheotokion.text = "When the all-blameless Ewe-lamb beheld * how her Son, the Lamb whom she mothered, was drawn to slaughter and death, * out of breath from her lament, she cried out plaintively, * “Woe is me, sweetest child of mine! * What has this ungrateful * people, who in times of old enjoyed Your many gifts, * done to You today to repay You? * Willingly You now undergo this. * Seeing You this way, how can I bear the pain?”"
+meVE.SticStavrotheotokion.text = "When the all-blameless Ewe-lamb beheld * how her Son, the Lamb whom she mothered, was led to slaughter and death, * out of breath from her lament, she cried out plaintively, * “Woe is me, sweetest child of mine! * What has this ungrateful * people, who in times of old enjoyed Your many gifts, * done to You today to repay You? * Willingly You now undergo this. * Seeing You this way, how can I bear the pain?”"
 
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.AposGlory.melody = ""
@@ -64,15 +64,15 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.AposTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
-meVE.AposTheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
-meVE.AposTheotokion.incipit = "O Theotokos, I look to…"
-meVE.AposTheotokion.text = "O Theotokos, I look to you for protection. By your intercession with God, rescue me from all my troubles, from every kind of hardship, and from terrible circumstances, also from every kind of temptation, and from the scandals that are set by evil people who hate me, and by demons who daily seek to destroy me."
+meVE.AposTheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
+meVE.AposTheotokion.incipit = "…"
+meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.AposStavrotheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meVE.AposStavrotheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
-meVE.AposStavrotheotokion.incipit = oc.m4.d6_en_US_dedes.ocMA.AposTheotokion.incipit
-meVE.AposStavrotheotokion.text = oc.m4.d6_en_US_dedes.ocMA.AposTheotokion.text
+meVE.AposStavrotheotokion.incipit = "…"
+meVE.AposStavrotheotokion.text = ""
 
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.GeneralApolytikion1.melody = ""
