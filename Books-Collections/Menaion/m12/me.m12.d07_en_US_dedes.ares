@@ -41,14 +41,14 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.Stichera04.greekmelody = he.a.m5_en_US_dedes.heAU.OsiePater.greekname
-meVE.Stichera04.melody = he.a.m5_en_US_dedes.heAU.OsiePater.notmetered
-meVE.Stichera04.incipit = "O devout Father, most sacred…"
-meVE.Stichera04.text = "O devout Father, most sacred Ambrose, you are the lyre that ever plays for us all a saving song of Orthodox doctrines; the tuneful lute of the divine Paraclete that thrills the souls of the faithful; the great instrument of God; the praiseworthy trumpet of the Church; the most clear fountain of the gifts of grace, that washes away the filth of the passions. Entreat Christ, implore Christ, O devout Saint, that He grant the Church unanimity, peace, and great mercy."
+meVE.Stichera04.melody = he.a.m5_en_US_dedes.heAU.OsiePater.name
+meVE.Stichera04.incipit = "…"
+meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = miscellanea_en_US_dedes.misc.Mode5
-meVE.Stichera05.melody = he.a.m5_en_US_dedes.heAU.OsiePater.notmetered
-meVE.Stichera05.incipit = "O devout Father Ambrose, truly…"
-meVE.Stichera05.text = "O devout Father Ambrose, truly blest of God, you joined the God-bearing Fathers of the Council, and you openly proclaimed, that to us has appeared the one Son in two essences, who became flesh of the Virgin, and who is consubstantial, co-eternal, and of one nature with His Father. And by the might of the Spirit, you showed how foolish was the blasphemous babbling of Arius. Entreat Christ, implore Christ, O devout Saint, that He grant the Church unanimity, peace, and great mercy."
+meVE.Stichera05.melody = he.a.m5_en_US_dedes.heAU.OsiePater.name
+meVE.Stichera05.incipit = "…"
+meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.Stichera06.melody = he.a.m5_en_US_dedes.heAU.OsiePater.notmetered
