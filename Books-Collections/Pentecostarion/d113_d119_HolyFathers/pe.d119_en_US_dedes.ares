@@ -488,8 +488,8 @@ peMA.Aposticha3.text = oc.m6.d7_en_US_dedes.ocMA.Aposticha3.text
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
 peMA.AposGlory.melody = ""
-peMA.AposGlory.incipit = oc.m6.d7_en_US_dedes.ocVE.Aposticha3.incipit
-peMA.AposGlory.text = oc.m6.d7_en_US_dedes.ocVE.Aposticha3.text
+peMA.AposGlory.incipit = tr.d014_en_US_dedes.trMA.AposGlory.incipit
+peMA.AposGlory.text = tr.d014_en_US_dedes.trMA.AposGlory.text 
 
 peMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
 peMA.AposTheotokion.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
