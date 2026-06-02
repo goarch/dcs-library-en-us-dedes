@@ -2,24 +2,24 @@ A_Resource_Whose_Name = hi.hi05_en_US_dedes
 
 hiVI.title = "The Order of the All-night Vigil"
 
-hiVI.R001 = ""
+hiVI.R001.rubric = ""
 
 hiVI.Key01.title = "Vespers"
-hiVI.R101 = ""
-hiVI.R102 = ""
-hiVI.R103 = ""
-hiVI.R104 = ""
+hiVI.R101.rubric = ""
+hiVI.R102.rubric = ""
+hiVI.R103.rubric = ""
+hiVI.R104.rubric = ""
 
 hiVI.Key02.title = "Lity - Blessing of the Loaves"
-hiVI.R201 = ""
-hiVI.R201b = "At this point there is a reading related to the feast."
-hiVI.R201c = ""
-hiVI.R201d = "Then Matins begins."
-hiVI.R201dalt = "Then the Six Psalms are read, and this is how Matins begins."
+hiVI.R201.rubric = ""
+hiVI.R201b.rubric = "At this point there is a reading related to the feast."
+hiVI.R201c.rubric = ""
+hiVI.R201d.rubric = "Then Matins begins."
+hiVI.R201dalt.rubric = "Then the Six Psalms are read, and this is how Matins begins."
 
 hiVI.Key03.title = "Matins"
-hiVI.R301 = ""
-hiVI.R301alt = ""
+hiVI.R301.rubric = ""
+hiVI.R301alt.rubric = ""
 
 hiVI.Key04.title = "Divine Liturgy"
-hiVI.R401 = ""
+hiVI.R401.rubric = ""

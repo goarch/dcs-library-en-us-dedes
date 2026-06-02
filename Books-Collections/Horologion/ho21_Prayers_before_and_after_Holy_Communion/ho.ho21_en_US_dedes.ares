@@ -8,7 +8,7 @@ hoCA.poet = ""
 
 hoCA.media.text = properties_en_US_dedes.media.key
 
-R01 = ""
+R01.rubric = ""
 
 hoCA.Ode11.ode = miscellanea_en_US_dedes.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_dedes.misc.Mode2
@@ -173,10 +173,10 @@ hoCA.Ode9T.melody = he.h.m2_en_US_dedes.heHE.AnarchouGennitoros.name
 hoCA.Ode9T.incipit = "When God formed a body…"
 hoCA.Ode9T.text = "When God formed a body for himself, He did it in your womb. Therefore all generations, O Lady, sing your praise. Multitudes of Angels give glory, for now through you they can clearly see Him, the Lord of the universe, one in essence with humanity."
 
-R02 = ""
+R02.rubric = ""
 
 hoPrayer.Key000.title = "On the next day."
-R03 = ""
+R03.rubric = ""
 hoPrayer.Key001.title = "The following Troparia."
 hoPrayer.Key001.incipit = oc.m2.d2_en_US_dedes.ocMA.Aposticha2.incipit
 hoPrayer.Key001.text = oc.m2.d2_en_US_dedes.ocMA.Aposticha2.text
@@ -422,7 +422,7 @@ hoPrayer.Key201_3.text = ""
 hoPrayer.Key201_4.text = ""
 hoPrayer.Key201_5.text = ""
 
-R04 = ""
+R04.rubric = ""
 
 hoPrayer.Key202.title = ""
 hoPrayer.Key202.text = ""

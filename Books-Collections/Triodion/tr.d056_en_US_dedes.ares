@@ -97,7 +97,7 @@ trMA.Oikos057.text = "Rejoice, O unwedded Bride!"
 trMA.Oikos060.text = "Fraught within with confusion brought about by doubtful thoughts, the temperate Joseph was troubled as he looked upon you the unwed and suspected adultery, O blameless one. But when he learned that your conception was by the Holy Spirit, he uttered, Alleluia."
 trMA.Oikos061.text = "Alleluia!"
 
-trAK.R001 = "If the reading of Kathisma 17 and the short litany are omitted, which is often the case, then “O Champion General” is sung only once between the first and second stanzas."
+trAK.R001.rubric = "If the reading of Kathisma 17 and the short litany are omitted, which is often the case, then “O Champion General” is sung only once between the first and second stanzas."
 
 trMA.Oikos070.text = "Gloriously extolling the incarnate appearance of Christ did the shepherds hear the Angels. And running as though to a shepherd, they perceived Him to be as it were a blameless lamb that had been pastured in the womb of Mary whom they lauded saying:"
 trMA.Oikos071.text = "Rejoice, O Mother of the Lamb and Shepherd. Rejoice, O sheepfold of sheep with reason."

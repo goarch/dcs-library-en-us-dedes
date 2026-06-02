@@ -115,7 +115,7 @@ euFUN.Key0908.text = ""
 
 euFUN.EpistleProkeimenon.text = "Truly blessed is the way that you travel on today; for a place has been prepared for your everlasting rest."
 
-euFUN.brightweek.R091 = "Then the Epistle and Gospel readings for the day."
+euFUN.brightweek.R091.rubric = "Then the Epistle and Gospel readings for the day."
 
 euFUN.Key1101.mode = miscellanea_en_US_dedes.misc.Mode2
 euFUN.Key1101.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
@@ -142,8 +142,8 @@ euFUN.Key1105.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
 euFUN.Key1105.incipit = oc.m6.d7_en_US_dedes.ocVE.AposTheotokion.incipit
 euFUN.Key1105.text = oc.m6.d7_en_US_dedes.ocVE.AposTheotokion.text
 
-euFUN.brightweek.R111 = "Instead of the final hymns, “Brethren, let us give a final kiss,” etc. we sing the following:"
-euFUN.brightweek.R112 = "On exiting the church, the following is sung, instead of Holy God:"
+euFUN.brightweek.R111.rubric = "Instead of the final hymns, “Brethren, let us give a final kiss,” etc. we sing the following:"
+euFUN.brightweek.R112.rubric = "On exiting the church, the following is sung, instead of Holy God:"
 
 euFUN.Key1200.title = "THE BURIAL"
 

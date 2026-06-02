@@ -8,17 +8,17 @@ hoCA.translator = "Translated by Fr. Seraphim Dedes"
 
 hoCA.media.text = "(Complete Score)" //for complete music
 
-R01 = ""
+R01.rubric = ""
 /*
 Priest
 [Invocation]
 Reader: Amen
 Ps142.title = ""
 Ps142.text = ""
-R02 = ""
+R02.rubric = ""
 Mode4
 God is the Lord
-R03 = ""
+R03.rubric = ""
 */
 
 hoCA.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
@@ -457,7 +457,7 @@ hoCA.Meg06.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.Meg06.incipit = ho.ho23_en_US_dedes.hoCA.Meg06.incipit
 hoCA.Meg06.text = ho.ho23_en_US_dedes.hoCA.Meg06.text
 //R16
-R17 = "During the feast of the Transfiguration, the following Megalynarion for that feast may be inserted here."
+R17.rubric = "During the feast of the Transfiguration, the following Megalynarion for that feast may be inserted here."
 hoCA.MegTrans1.melody = he.h.m6_en_US_dedes.heHE.TinTimioteran.name
 hoCA.MegTrans1.incipit = "…"
 hoCA.MegTrans1.text = me.m08.d06_en_US_dedes.meLI.Megalynarion.text

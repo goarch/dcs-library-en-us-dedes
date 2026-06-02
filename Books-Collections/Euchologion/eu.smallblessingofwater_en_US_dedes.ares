@@ -2,10 +2,10 @@ A_Resource_Whose_Name = eu.smallblessingofwater_en_US_dedes
 
 euSWB.Key0100.title = "The Service of the Small Blessing of Water"
 
-euSWB.R101 = ""
-euSWB.R102 = "The hymn of the church."
+euSWB.R101.rubric = ""
+euSWB.R102.rubric = "The hymn of the church."
 
-euSWB.R201 = "Then we sing the following hymns to the Theotokos, with the verse: “Most-holy Theotokos, save us.”"
+euSWB.R201.rubric = "Then we sing the following hymns to the Theotokos, with the verse: “Most-holy Theotokos, save us.”"
 
 euSWB.Key0201.mode = miscellanea_en_US_dedes.misc.Mode6
 euSWB.Key0201.melody = he.h.m6_en_US_dedes.heHE.IToChaireDiAngelou.melody
@@ -205,7 +205,7 @@ euSWB.Key0239.text = "You ineffably conceived and then gave birth to * the Creat
 euSWB.Key0240.incipit = oc.m6.d5_en_US_dedes.ocMA.Kathisma13.incipit
 euSWB.Key0240.text = oc.m6.d5_en_US_dedes.ocMA.Kathisma13.text
 
-euSWB.R301 = "Then the following hymns:"
+euSWB.R301.rubric = "Then the following hymns:"
 
 euSWB.Key0301.mode = miscellanea_en_US_dedes.misc.Mode8
 euSWB.Key0301.incipit = "Now the time is come…"
@@ -224,7 +224,7 @@ euSWB.Key0304.mode = miscellanea_en_US_dedes.misc.Mode8
 euSWB.Key0304.incipit = "All-holy Virgin Theotokos, guide aright…"
 euSWB.Key0304.text = "All-holy Virgin Theotokos, guide aright the works of our hands, we pray; and ask for the remission of our offenses, as we chant now the hymn of the Angels."
 
-euSWB.R401 = "The celebrant says the following prayer:"
+euSWB.R401.rubric = "The celebrant says the following prayer:"
 euSWB.Key0401a.text = ""
 euSWB.Key0401b.text = ""
 euSWB.Key0402.text = ""
@@ -232,7 +232,7 @@ euSWB.Key0403.text = ""
 euSWB.Key0404.text = ""
 euSWB.Key0405.text = ""
 
-euSWB.R501 = "Another shorter prayer, used instead of the usual long one to save time."
+euSWB.R501.rubric = "Another shorter prayer, used instead of the usual long one to save time."
 euSWB.Key0501a.text = ""
 euSWB.Key0501b.text = ""
 euSWB.Key0501c.text = ""
@@ -248,17 +248,17 @@ euSWB.Key0503b.text = ""
 euSWB.Key0503c.text = ""
 euSWB.Key0504.text = ""
 
-euSWB.R601 = "The celebrant bows his head and quietly says the following prayer:"
+euSWB.R601.rubric = "The celebrant bows his head and quietly says the following prayer:"
 euSWB.Key0601.text = eu.greatblessingofwater_en_US_dedes.euGW.Prayer41.text
 
-euSWB.R602 = "The celebrant holds the cross and the holy water sprinkler and makes the sign of the cross over the water three times, each time quietly saying: “In the name of the Father and the Son and the Holy Spirit. Amen.” Then he immerses them in the water crosswise as he sings the following hymn:"
+euSWB.R602.rubric = "The celebrant holds the cross and the holy water sprinkler and makes the sign of the cross over the water three times, each time quietly saying: “In the name of the Father and the Son and the Holy Spirit. Amen.” Then he immerses them in the water crosswise as he sings the following hymn:"
 
-euSWB.R603 = "Then the celebrant sings the following as he sprinkles crosswise."
+euSWB.R603.rubric = "Then the celebrant sings the following as he sprinkles crosswise."
 
 euSWB.Key0602.mode = miscellanea_en_US_dedes.misc.Mode2
 euSWB.Key0602.incipit = "Make us worthy of your…"
 euSWB.Key0602.text = "Make us worthy of your gifts, O Virgin Theotokos, disregarding our transgressions and bestowing healing, through faith, upon those who receive your blessing, O immaculate one."
 
-euSWB.R604 = "Then the celebrant kisses the precious Cross. Then the rest of those in attendance do likewise and are also sprinkled on the forehead with holy water by the celebrant. They kiss the cross he is holding and also his hand. Then he proceeds to sprinkle the church (or the home) with holy water."
+euSWB.R604.rubric = "Then the celebrant kisses the precious Cross. Then the rest of those in attendance do likewise and are also sprinkled on the forehead with holy water by the celebrant. They kiss the cross he is holding and also his hand. Then he proceeds to sprinkle the church (or the home) with holy water."
 
-euSWB.R605 = "Meanwhile the following hymns are sung:"
+euSWB.R605.rubric = "Meanwhile the following hymns are sung:"

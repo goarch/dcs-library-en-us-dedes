@@ -892,6 +892,6 @@ meLI.TheotokosHymn.text = me.m01.d06_en_US_dedes.meMA.Ode9C1H.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
-meLI.R01 = ""
+meLI.R01.rubric = ""
 
 meLI.Megalynarion.text = ""
