@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = me.m12.d14_en_US_dedes
 
 meDA.date = "December 14"
-meDA.commemoration.full = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them" // full title of day
-meDA.commemoration.first = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them"
-meDA.commemoration.first_short = "Memory of the Holy Martyrs Thyrsos, Leucius, Kallinikos, Philemon, Apollonios, Arrianos, and those with them"
+meDA.commemoration.full = "Memory of the Holy Martyrs Thyrsus, Leucius, Callinicus, Philemon, Apollonius, Arianus, and those with them" // full title of day
+meDA.commemoration.first = "Memory of the Holy Martyrs Thyrsus, Leucius, Callinicus, Philemon, Apollonius, Arianus, and those with them"
+meDA.commemoration.first_short = "Memory of the Holy Martyrs Thyrsus, Leucius, Callinicus, Philemon, Apollonius, Arianus, and those with them"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
@@ -15,7 +15,7 @@ meDA.pdfcoverdate = "December 14,"
 meDA.pdfdatebefore = "December 13"
 meDA.pdfheaderdate = "December 14"
 meDA.fordate = "for December 14,"
-meLE.commemoration1 = "The Holy Martyrs Thyrsos, Leukios, Kallinikos, Philemon, Apollonios, Arrianos."
+meLE.commemoration1 = "The Holy Martyrs Thyrsus, Leukios, Callinicus, Philemon, Apollonius, Arianus."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""
@@ -27,7 +27,7 @@ meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "The Lord armed you with…"
-meVE.Stichera01.text = "The Lord armed you with a breastplate of true faith, and He made you mighty to go out to battle the enemy, O all-lauded Thyrsos. By your endurance, as with a spear, you cut down the foe’s many forces and they disappeared. And after much striving, you were awarded the crowns of victory, O Great-martyr."
+meVE.Stichera01.text = "The Lord armed you with a breastplate of true faith, and He made you mighty to go out to battle the enemy, O all-lauded Thyrsus. By your endurance, as with a spear, you cut down the foe’s many forces and they disappeared. And after much striving, you were awarded the crowns of victory, O Great-martyr."
 
 meVE.Stichera02.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
@@ -37,7 +37,7 @@ meVE.Stichera02.text = "O glorious Martyr Lucius, whose name means whiteness, yo
 meVE.Stichera03.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.incipit = "As your name in Greek…"
-meVE.Stichera03.text = "As your name in Greek indicates, you, O Martyr Kallinikos, lived it by your actions, being victorious. And you imiated Lucius and made your soul very white, by the beauty of the contests and the whiteness of the tortures. You exposed the godless position of the unlawful, and by divine power you diminished the darkness of deception."
+meVE.Stichera03.text = "As your name in Greek indicates, you, O Martyr Callinicus, lived it by your actions, being victorious. And you imiated Lucius and made your soul very white, by the beauty of the contests and the whiteness of the tortures. You exposed the godless position of the unlawful, and by divine power you diminished the darkness of deception."
 
 meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
