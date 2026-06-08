@@ -42,18 +42,18 @@ meVE.Stichera03.text = ""
 meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera04.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera04.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
-meVE.Stichera04.incipit = "O all-lauded one, you dyed…"
-meVE.Stichera04.text = "O all-lauded one, you dyed for yourself a garment in the saving blood as if in dye. You were made to shine in the Spirit, and you were betrothed to the Lord and immortal King, who preserved you blameless and incorrupt, to the ages of ages, as a Virgin in the celestial chambers, beautiful and undefiled."
+meVE.Stichera04.incipit = "…"
+meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
-meVE.Stichera05.incipit = "You experienced tortures, and you…"
-meVE.Stichera05.text = "You experienced tortures, and you were burned with fire; and you endured the tearing of your flesh, and you valiantly bore the boiling of the cauldron. In all this, your mind was not defeated, nor did you sacrifice to idols; but rather you bowed your neck to God, and by the penalty of the sword, you were crowed and you went up to heaven."
+meVE.Stichera05.incipit = "…"
+meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
-meVE.Stichera06.incipit = "O glorious medal-winning Virgin Martyr…"
-meVE.Stichera06.text = "O glorious medal-winning Virgin Martyr, to your Bridegroom you presented, as if a costly dowry, a holy company of fellow martyrs, who had believed in Him because of the miracles you performed by faith; for you were shown to be superior to the penalties and the burning wheel and the other tortures, in Christ who as God gave you the victory from heaven."
+meVE.Stichera06.incipit = "…"
+meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.SticGlory.melody = ""
