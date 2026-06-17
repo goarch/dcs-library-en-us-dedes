@@ -606,9 +606,9 @@ meMA.AposGlory.text = "O disciple of the Savior, glorious hierarch and pride of 
 
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.AposTheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
-meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.notmetered
-meMA.AposTheotokion.incipit = "O good and all-blameless Lady…"
-meMA.AposTheotokion.text = "O good and all-blameless Lady, banish from my sorry heart all my habits that separate me from your good Son. And by your might, oppose that most wicked lion that stalks me and seeks to devour me, that crafty serpent, that evil and wily dragon, and crush him under my feet."
+meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.name
+meMA.AposTheotokion.incipit = "From my wretched heart…"
+meMA.AposTheotokion.text = "From my wretched heart expel my bad habits that keep me far * from your good Son, my Savior Christ, * O all-blameless and all-good * Theotokos, I humbly pray. * And by the power that He has given you, * frustrate the crafty serpent who watches me, * that wicked lion who * roams about and seeks to swallow me alive, * that crooked infernal snake; crush him beneath my feet."
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
