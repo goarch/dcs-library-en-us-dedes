@@ -342,12 +342,12 @@ meMA.Ode6C2T.melody = he.h.m1_en_US_dedes.heHE.SplanchnonIonan.name
 meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
-meMA.Kontakion1.mode = miscellanea_en_US_dedes.misc.Mode2
-meMA.Kontakion1.melody = miscellanea_en_US_dedes.misc.NotMetered
-meMA.Kontakion1.incipit = "Worshiping not the image made…"
-meMA.Kontakion1.text = "Worshiping not the image made by hands, but putting on the breastplate of the unwritten essence, in the arena of fire you, thrice-blessed ones, were glorified. Standing in the midst of a flame unendurable, you called upon God, “Make haste, O Compassionate one, and hurry as the Merciful one, unto our aid, for You can do what You will.”"
+meMA.Kontakion1.mode = me.m12.d17_en_US_dedes.meMA.Kontakion2.mode
+meMA.Kontakion1.melody = me.m12.d17_en_US_dedes.meMA.Kontakion2.melody
+meMA.Kontakion1.incipit = me.m12.d17_en_US_dedes.meMA.Kontakion2.incipit
+meMA.Kontakion1.text = me.m12.d17_en_US_dedes.meMA.Kontakion2.text
 
-meMA.Oikos1.text = "Extend Your hand, which of old the Egyptians, making battle, and the Hebrews, then embattled, had experienced. Do not forsake us, that Death, who thirsts after us, and Satan, who hates us, may drink us down. But be near us and spare our souls, as You once spared Your lads in Babylon as they ceaselessly sang Your praises, and were for You thrown into the furnace, and from thence called to You, “Make haste, O Compassionate one, and hurry as the Merciful one, unto our aid, for You can do what You will.”"
+meMA.Oikos1.text = me.m12.d17_en_US_dedes.meMA.Oikos2.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_dedes.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_dedes.misc.Mode8
@@ -537,15 +537,15 @@ meMA.Lauds1.text = "Let all of us observe * now the august Forefathers’ * memo
 meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 meMA.MM.Lauds123as345.text = properties_en_US_dedes.media.key
 
-meMA.Lauds2.mode = miscellanea_en_US_dedes.misc.Mode2
-meMA.Lauds2.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meMA.Lauds2.incipit = "Praising almighty God, * the…"
-meMA.Lauds2.text = "Praising almighty God, * the Servants sang in chorus * while standing in the furnace, * and thereby they extinguished the force of the engulfing fire."
+meMA.Lauds2.mode = me.m12.d17_en_US_dedes.meMA.Aposticha3.mode
+meMA.Lauds2.melody = me.m12.d17_en_US_dedes.meMA.Aposticha3.melody
+meMA.Lauds2.incipit = me.m12.d17_en_US_dedes.meMA.Aposticha3.incipit
+meMA.Lauds2.text = me.m12.d17_en_US_dedes.meMA.Aposticha3.text 
 
-meMA.Lauds3.mode = miscellanea_en_US_dedes.misc.Mode2
-meMA.Lauds3.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meMA.Lauds3.incipit = "Shut up inside the den…"
-meMA.Lauds3.text = "Shut up inside the den, * the holy Prophet Daniel * was dwelling with the lions, * and he was manifestly preserved from any injury."
+meMA.Lauds3.mode = me.m12.d17_en_US_dedes.meMA.Aposticha2.mode
+meMA.Lauds3.melody = me.m12.d17_en_US_dedes.meMA.Aposticha2.melody
+meMA.Lauds3.incipit = me.m12.d17_en_US_dedes.meMA.Aposticha2.incipit
+meMA.Lauds3.text = me.m12.d17_en_US_dedes.meMA.Aposticha2.text 
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.po.Germanou
 meMA.LaudsGlory.mode = miscellanea_en_US_dedes.misc.Mode7

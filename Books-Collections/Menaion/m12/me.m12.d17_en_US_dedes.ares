@@ -58,8 +58,8 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = poets_en_US_dedes.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
+meVE.SticGlory.incipit = "O believers…"
+meVE.SticGlory.text = "O believers, the Prophet Daniel has spiritually congregated us today. He sets a sumptuous banquet of virtues, for rich and poor, strangers and local residents, and a spiritual wine bowl that pours forth the beverage of sound religion, which gladdens the hearts of the faithful and grants them the grace of the Holy Spirit. This Prophet, this lamp that shined so brightly in the world, overthrew all that the Assyrians worshiped, and he stopped the mouths of untamed lions. As we extol him, let us also praise the Three Servants who, although they were not gold by nature, were shown to be more refined than gold. For the fire of the furnace did not consume them, but it kept them unharmed, though naphtha and pitch and branches were piled on them. May the Lord, who has brought us again to this time of year, count us worthy to reach the principal and venerable day of the Nativity of Christ. He it is who, by their entreaties, grants us the forgiveness of our sins and the great mercy."
 
 meVE.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticBoth.melody = ""
@@ -382,7 +382,7 @@ meMA.Ode6H.text = he.h.m8_en_US_dedes.heHE.AvyssosAmartion.text
 
 meMA.Kontakion2.mode = miscellanea_en_US_dedes.misc.Mode6
 meMA.Kontakion2.melody = ""
-meMA.Kontakion2.incipit = "Not reverencing the hand-depicted image…"
+meMA.Kontakion2.incipit = "Not reverencing…"
 meMA.Kontakion2.text = "Not reverencing the hand-depicted image, but shielded by the undepicted essence, you were glorified in the ordeal of fire, O thrice-blessed ones. For you called upon God as you stood in the midst of the insufferable fire: “Merciful Master, hasten, and hurry to our assistance, O tender-loving Lord. You can do so if You so will.”"
 
 meMA.Oikos2.text = "Stretch out Your hand, which Egyptians of old besieging and Hebrews then beleaguered came to know. Abandon us not to be swallowed by death. Athirst for us is Satan who hates us. But come near us and spare our souls, as once You spared Your three Servants, who in Babylon unceasingly extolled You. When for Your sake they were thrown into the furnace, from there they cried out to You: “Merciful Master, hasten, and hurry to our assistance, O tender-loving Lord. You can do so if You so will.”"
@@ -558,21 +558,21 @@ meMA.Aposticha1.text = ""
 
 meMA.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meMA.Aposticha2.incipit = "…"
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.incipit = "Shut up inside…"
+meMA.Aposticha2.text = "Shut up inside the den, * the holy Prophet Daniel * was dwelling with the lions, * and he was manifestly preserved from any injury."
 
 meMA.Aposticha3.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meMA.Aposticha3.incipit = "…"
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.incipit = "Praising almighty…"
+meMA.Aposticha3.text = "Praising almighty God, * the Servants sang in chorus * while standing in the furnace, * and thereby they extinguished the force of the engulfing fire."
 
-meMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "O believers, the Prophet Daniel…"
-meMA.AposGlory.text = "O believers, the Prophet Daniel has spiritually congregated us today. He sets a sumptuous banquet of virtues, for rich and poor, strangers and local residents, and a spiritual wine bowl that pours forth the beverage of sound religion, which gladdens the hearts of the faithful and grants them the grace of the Holy Spirit. This Prophet, this lamp that shined so brightly in the world, overthrew all that the Assyrians worshiped, and he stopped the mouths of untamed lions. As we extol him, let us also praise the Three Servants who, although they were not gold by nature, were shown to be more refined than gold. For the fire of the furnace did not consume them, but it kept them unharmed, though naphtha and pitch and branches were piled on them. May the Lord, who has brought us again to this time of year, count us worthy to reach the principal and venerable day of the Nativity of Christ. He it is who, by their entreaties, grants us the forgiveness of our sins and the great mercy."
+meMA.AposGlory.mode = me.m12.d17_en_US_dedes.meVE.SticGlory.mode
+meMA.AposGlory.melody = me.m12.d17_en_US_dedes.meVE.SticGlory.melody
+meMA.AposGlory.incipit = me.m12.d17_en_US_dedes.meVE.SticGlory.incipit
+meMA.AposGlory.text = me.m12.d17_en_US_dedes.meVE.SticGlory.text
 
-meMA.AposBoth.mode = miscellanea_en_US_dedes.misc.Mode2
-meMA.AposBoth.melody = ""
+meMA.AposBoth.mode = me.m12.d17_en_US_dedes.meVE.SticBoth.mode
+meMA.AposBoth.melody = me.m12.d17_en_US_dedes.meVE.SticBoth.melody
 meMA.AposBoth.incipit = me.m12.d17_en_US_dedes.meVE.SticBoth.incipit
 meMA.AposBoth.text = me.m12.d17_en_US_dedes.meVE.SticBoth.text
 
@@ -733,8 +733,8 @@ alt1.meMA.Kathisma23.text = ""
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
 alt1.meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 alt1.meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.notmetered
-alt1.meMA.Kathisma31.incipit = "The woman who had been…"
-alt1.meMA.Kathisma31.text = "The woman who had been bound by a harsh excommunication was finally dissolved at once into the earth from which she came, by you the faithful servant of Christ. And everyone who saw it was greatly amazed; but you, being humble and distant from any empty glory, adjured them not to reveal the even as long as you were alive. But grace has shown everyone that you are a fountain of miracles, O blessed Saint."
+alt1.meMA.Kathisma31.incipit = "…"
+alt1.meMA.Kathisma31.text = ""
 
 alt1.meMA.Kathisma32.mode = miscellanea_en_US_dedes.misc.Mode8
 alt1.meMA.Kathisma32.greekmelody = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname
