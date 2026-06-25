@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m11.d09_en_US_dedes
 
 meDA.date = "November 9"
-meDA.commemoration.full = "Memory of the Holy Martyrs Onesiphorus and Porphyrios; our Devout Mother Matrona; and our Father among the Saints Nektarios the Wonder-worker, Bishop of Pentapolis." // full title of day
+meDA.commemoration.full = "Memory of the Holy Martyrs Onesiphorus and Porphyrios; our Devout Mother Matrona; and our Father among the Saints Nektarios the Wonderworker, Bishop of Pentapolis." // full title of day
 meDA.commemoration.first = "Memory of the Holy Martyrs Onesiphorus and Porphyrios; our Devout Mother Matrona"
 meDA.commemoration.first_short = "Memory of the Holy Martyrs Onesiphorus and Porphyrios; our Devout Mother Matrona"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.Martyrs
@@ -610,13 +610,13 @@ meLI.Megalynarion.text = ""
 //-------
 
 alt1.meDA.date = "November 9"
-alt1.meDA.commemoration.full = "Memory of our Father among the Saints Nektarios, Metropolitan of Pentapolis, the Wonder-worker" // full title of day
+alt1.meDA.commemoration.full = "Memory of our Father among the Saints Nektarios, Metropolitan of Pentapolis, the Wonderworker" // full title of day
 alt1.meDA.commemoration.first_short = "Memory of St. Nektarios of Pentapolis"
 alt1.meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 alt1.meDA.commemoration.first_name = "St. Nektarios"
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
-alt1.meDA.insert1 = "our father among the saints Nektarios, Metropolitan of Pentapolis, the Wonderworker," // for use in petitions and dismissal
+alt1.meDA.insert1 = "of our father among the saints Nektarios, Metropolitan of Pentapolis, the Wonderworker," // for use in petitions and dismissal
 alt1.meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 alt1.meDA.note = ""
 alt1.meLE.commemoration1 = "Our Father among the Saints Nektarios of Aegina, Metropolitan of Pentapolis."

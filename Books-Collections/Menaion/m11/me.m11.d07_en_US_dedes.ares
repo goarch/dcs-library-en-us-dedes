@@ -1,21 +1,21 @@
 A_Resource_Whose_Name = me.m11.d07_en_US_dedes
 
 meDA.date = "November 7"
-meDA.commemoration.full = "Memory of the Thirty-Three holy Martyrs in Melitene; and Memory of our Devout Father Lazarus the Wonder-worker, who lived as an Ascetic on Mt. Galesion."
-meDA.commemoration.first = "Memory of our Devout Father Lazarus the Wonder-worker"
-meDA.commemoration.first_short = "Memory of our Devout Father Lazarus the Wonder-worker"
+meDA.commemoration.full = "Memory of the Thirty-Three holy Martyrs in Melitene; and Memory of our Devout Father Lazarus the Wonderworker, who lived as an Ascetic on Mt. Galesion."
+meDA.commemoration.first = "Memory of our Devout Father Lazarus the Wonderworker"
+meDA.commemoration.first_short = "Memory of our Devout Father Lazarus the Wonderworker"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.Martyrs
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = "For St. Lazarus."
 meDA.commemoration.second_name = ""
-meDA.insert1 = "and our devout father Lazarus the Wonder-worker," // for use in petitions and dismissal
+meDA.insert1 = "of our devout father Lazarus the Wonderworker," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
 meDA.note = ""
 meDA.pdfcoverdate = "November 7,"
 meDA.pdfdatebefore = "November 6"
 meDA.pdfheaderdate = "November 7"
 meDA.fordate = "for November 7,"
-meLE.commemoration1 = "The Thirty-Three Holy Martyrs of Melitene. Our Venerable Father Lazaros of Mount Galesion, the Wonder-worker."
+meLE.commemoration1 = "The Thirty-Three Holy Martyrs of Melitene. Our Venerable Father Lazaros of Mount Galesion, the Wonderworker."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""

@@ -15,7 +15,7 @@ meDA.pdfcoverdate = "November 1,"
 meDA.pdfdatebefore = "October 31"
 meDA.pdfheaderdate = "November 1"
 meDA.fordate = "for November 1,"
-meLE.commemoration1 = "The Holy Unmercenary Wonder-workers Cosmas and Damianos."
+meLE.commemoration1 = "The Holy Unmercenary Wonderworkers Cosmas and Damianos."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""
@@ -96,7 +96,7 @@ meVE.AposStavrotheotokion.text = me.m01.d21_en_US_dedes.meVE.SticStavrotheotokio
 meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode8
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "Holy Unmercenaries…"
-meVE.Apolytikion1.text = "Holy Unmercenaries and Wonder-workers, visit our infirmities. Freely you received; freely give to us."
+meVE.Apolytikion1.text = "Holy Unmercenaries and Wonderworkers, visit our infirmities. Freely you received; freely give to us."
 
 meMA.C1.acrostic.title = "First Canon."
 meMA.C1.acrostic.notice1 = ""

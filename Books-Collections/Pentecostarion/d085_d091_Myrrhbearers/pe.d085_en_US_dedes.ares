@@ -2,7 +2,7 @@ A_Resource_Whose_Name = pe.d085_en_US_dedes
 
 peDA.commemoration.full = "Sunday of the Myrrh-bearers" //full title of day
 peDA.commemoration.short = "Myrrh-bearers Sunday"
-peDA.insert1 = "the holy Myrrh-bearers, and Joseph of Arimathea, and Nikodemos the disciple by night," //for use in petitions and dismissal
+peDA.insert1 = "of the holy Myrrh-bearers, and Joseph of Arimathea, and Nikodemos the disciple by night," //for use in petitions and dismissal
 peDA.insert2 = "whose memory we observe," //for use in petitions and dismissal
 peDA.note = ""
 peHO.daytitle = ""

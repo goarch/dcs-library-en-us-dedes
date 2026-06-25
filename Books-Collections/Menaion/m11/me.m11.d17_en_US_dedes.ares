@@ -1,21 +1,21 @@
 A_Resource_Whose_Name = me.m11.d17_en_US_dedes
 
 meDA.date = "November 17"
-meDA.commemoration.full = "Memory of our Father among the Saints Gregory the Wonder-worker, Bishop of Neocaesarea" // full title of day
+meDA.commemoration.full = "Memory of our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea" // full title of day
 meDA.commemoration.first = "Memory of St. Gregory Bishop of Neocaesarea"
 meDA.commemoration.first_short = "Memory of St. Gregory Bishop of Neocaesarea"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
-meDA.insert1 = "and our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea," // for use in petitions and dismissal
+meDA.insert1 = "of our Father among the Saints Gregory the Wonderworker, Bishop of Neocaesarea," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meDA.note = ""
 meDA.pdfcoverdate = "November 17,"
 meDA.pdfdatebefore = "November 16"
 meDA.pdfheaderdate = "November 17"
 meDA.fordate = "for November 17,"
-meLE.commemoration1 = "Our Father among the Saints Gregory the Wonder-worker, Bishop of Neokaisaria."
+meLE.commemoration1 = "Our Father among the Saints Gregory the Wonderworker, Bishop of Neokaisaria."
 meLE.commemoration2 = ""
 meHO.number = ""
 meHO.rank = ""

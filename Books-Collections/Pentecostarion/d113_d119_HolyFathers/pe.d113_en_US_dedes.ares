@@ -2,7 +2,7 @@ A_Resource_Whose_Name = pe.d113_en_US_dedes
 
 peDA.commemoration.full = "" //full title of day
 peDA.commemoration.short = "Sunday of the Holy Fathers"
-peDA.insert1 = "the 318 Holy Fathers who convened the First Ecumenical Council in Nicea," //for use in petitions and dismissal
+peDA.insert1 = "of the 318 Holy Fathers who convened the First Ecumenical Council in Nicea," //for use in petitions and dismissal
 peDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
 peDA.note = ""
 peHO.daytitle = ""

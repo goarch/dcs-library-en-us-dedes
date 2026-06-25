@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = me.m01.d31_en_US_dedes
 
 meDA.date = "January 31"
-meDA.commemoration.full = "Memory of the Holy Unmercenaries Cyrus and John, the Wonder-workers" // full title of day
+meDA.commemoration.full = "Memory of the Holy Unmercenaries Cyrus and John, the Wonderworkers" // full title of day
 meDA.commemoration.first = "Memory of the Holy Unmercenaries Cyrus and John"
 meDA.commemoration.first_short = "Memory of the Holy Unmercenaries Cyrus and John"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
-meDA.insert1 = "the holy Unmercenaries Cyrus and John, the Wonder-workers," // for use in petitions and dismissal
+meDA.insert1 = "of the holy Unmercenaries Cyrus and John, the Wonderworkers," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate," // for use in petitions and dismissal
 meDA.note = ""
 meDA.pdfcoverdate = "January 31,"

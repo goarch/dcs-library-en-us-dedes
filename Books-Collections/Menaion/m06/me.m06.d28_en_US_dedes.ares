@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = me.m06.d28_en_US_dedes
 
 meDA.date = "June 28"
-meDA.commemoration.full = "Commemoration of the Transfer of the Relics of the Holy Unmercenaries Cyrus and John, the Wonder-workers" // full title of day
+meDA.commemoration.full = "Commemoration of the Transfer of the Relics of the Holy Unmercenaries Cyrus and John, the Wonderworkers" // full title of day
 meDA.commemoration.first = "Transfer of the Relics of the Holy Unmercenaries Cyrus and John"
 meDA.commemoration.first_short = "Transfer of the Relics of the Holy Unmercenaries Cyrus and John"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints
 meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
-meDA.insert1 = "and the holy Unmercenaries Cyrus and John, the Wonder-workers," // for use in petitions and dismissal
+meDA.insert1 = "of the holy Unmercenaries Cyrus and John, the Wonderworkers," // for use in petitions and dismissal
 meDA.insert2 = "the memory of the transfer of the relics of whom we celebrate," // for use in petitions and dismissal
 meDA.note = ""
 meDA.pdfcoverdate = "June 28,"

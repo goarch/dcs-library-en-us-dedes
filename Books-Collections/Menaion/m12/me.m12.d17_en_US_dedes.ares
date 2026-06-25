@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m12.d17_en_US_dedes
 
 meDA.date = "December 17"
-meDA.commemoration.full = "Memory of the Holy Prophet Daniel and the Holy Three Servants, Ananias, Azarias, and Mishael; and our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonder-worker, from the Island of Zakynthos" // full title of day
+meDA.commemoration.full = "Memory of the Holy Prophet Daniel and the Holy Three Servants, Ananias, Azarias, and Mishael; and our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonderworker, from the Island of Zakynthos" // full title of day
 meDA.commemoration.first = "Memory of the Holy Prophet Daniel and the Holy Three Servants"
 meDA.commemoration.first_short = "Memory of the Holy Prophet Daniel and the Holy Three Servants"
 meDA.commemoration.first_title = titles_en_US_dedes.ti.Prophet
@@ -586,13 +586,13 @@ meLI.Megalynarion.text = ""
 meLI.Megalynarion2.text = ""
 
 alt1.meDA.date = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-alt1.meDA.commemoration.full = "Memory of our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonder-worker, from the Island of Zakynthos" //full title of day
+alt1.meDA.commemoration.full = "Memory of our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonderworker, from the Island of Zakynthos" //full title of day
 alt1.meDA.commemoration.first_short = "Memory of St. Dionysios Archbishop of Aegina"
 alt1.meDA.commemoration.first_title = "For St. Dionysios."
 alt1.meDA.commemoration.first_name = "St. Dionysios of Aegina"
 alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
-alt1.meDA.insert1 = "our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonder-worker," //for use in petitions and dismissal
+alt1.meDA.insert1 = "of our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonderworker," //for use in petitions and dismissal
 alt1.meDA.insert2 = "whose memory we celebrate," //for use in petitions and dismissal
 alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
@@ -648,7 +648,7 @@ alt1.meVE.Lity2.text = "A women who did not have a son longed for one, so she pr
 alt1.meVE.Lity3.mode = miscellanea_en_US_dedes.misc.Mode3
 alt1.meVE.Lity3.melody = ""
 alt1.meVE.Lity3.incipit = "Another woman from your family…"
-alt1.meVE.Lity3.text = "Another woman from your family, O devout Saint, had a serious stroke; she remained speechless, half-dead, and immobile. But when they simply touched your precious finger from your holy relic to her mouth and her paralyzed members, oh the miracle! she immediately regained her speech and her full health. She proclaimed the miracle, and she magnified the Lord who magnified you. O Wonder-worker St. Dionysios, entreat Him earnestly for us, who with marvel at and extol your praiseworthy miracles."
+alt1.meVE.Lity3.text = "Another woman from your family, O devout Saint, had a serious stroke; she remained speechless, half-dead, and immobile. But when they simply touched your precious finger from your holy relic to her mouth and her paralyzed members, oh the miracle! she immediately regained her speech and her full health. She proclaimed the miracle, and she magnified the Lord who magnified you. O Wonderworker St. Dionysios, entreat Him earnestly for us, who with marvel at and extol your praiseworthy miracles."
 
 alt1.meVE.LityGlory.mode = miscellanea_en_US_dedes.misc.Mode5
 alt1.meVE.LityGlory.melody = ""
