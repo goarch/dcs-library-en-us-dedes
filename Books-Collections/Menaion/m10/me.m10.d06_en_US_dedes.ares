@@ -10,7 +10,7 @@ meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
 meDA.insert1 = "of the holy and glorious Apostle Thomas," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we observe," // for use in petitions and dismissal
-meDA.note = ""
+meDA.note = "thomas_apostle"
 meDA.pdfcoverdate = "October 6,"
 meDA.pdfdatebefore = "October 5"
 meDA.pdfheaderdate = "October 6"
@@ -78,6 +78,11 @@ meVE.AposTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greek
 meVE.AposTheotokion.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
+
+meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode3
+meVE.Apolytikion1.common = he.ga_en_US_dedes.heGA.ApostoleAgie.name
+meVE.Apolytikion1.incipit = "O holy Apostle…"
+meVE.Apolytikion1.text = "O holy Apostle Thomas, make intercession to our merciful God, that He grant our souls forgiveness of offenses."
 
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_dedes.misc.Mode3
 meVE.GeneralApolytikion1.melody = he.ga_en_US_dedes.heGA.ApostoleAgie.name

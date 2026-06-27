@@ -10,7 +10,7 @@ meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
 meDA.insert1 = "of the holy and glorious Hieromartyr and Apostle James, the Brother of God," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meDA.note = "The additional materials, Lity, Kathismata, and Post Gospel Idiomelon, not found in the Menaion, were composed in Greek by St. Nikodemos of the Holy Mountain. (Systema Typikou, p. 186)."
+meDA.note = "iakovos_adelphotheos"
 meDA.pdfcoverdate = "October 23,"
 meDA.pdfdatebefore = "October 22"
 meDA.pdfheaderdate = "October 23"
@@ -22,6 +22,7 @@ meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
+meDA.poet = "The additional materials, Lity, Kathismata, and Post Gospel Idiomelon, not found in the Menaion, were composed in Greek by St. Nikodemos of the Holy Mountain. (Systema Typikou, p. 186)."
 
 meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname

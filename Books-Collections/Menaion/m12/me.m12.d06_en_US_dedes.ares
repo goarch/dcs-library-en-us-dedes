@@ -10,7 +10,7 @@ meDA.commemoration.second_title = ""
 meDA.commemoration.second_name = ""
 meDA.insert1 = "of our Father among the Saints Nicholas the Wonderworker, Archbishop of Myra in Lycia," // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
-meDA.note = ""
+meDA.note = "nicholas_wonderworker"
 meDA.pdfcoverdate = "December 6,"
 meDA.pdfdatebefore = "December 5"
 meDA.pdfheaderdate = "December 6"
@@ -190,6 +190,13 @@ meVE.AposBoth.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "O unwedded Virgin, where are…"
 meVE.AposBoth.text = "O unwedded Virgin, where are you from? Who is your father, and who is your mother? How is it that you carry the Creator in your arms? How was your womb not impaired? Great and extraordinary and awesome mysteries we see taking place in you on earth, O All-holy Maiden, and we prepare for you, as is our duty; from the earth, we ready the Grotto; and from heaven we request that the Star be granted. Magi are coming westward from the land of the East, to see the Salvation of mortals, nursing as an infant."
+
+meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
+meVE.Apolytikion1.greekmelody = ""
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.common = he.ga_en_US_dedes.heGA.KanonaPisteos.name
+meVE.Apolytikion1.incipit = "A rule of faith…"
+meVE.Apolytikion1.text = "A rule of faith are you, and an icon of gentleness, and a teacher of self-control. And to your flock this was evident, by the truth of your life and deeds. You were humble and therefore you acquired exalted gifts, treasure in heaven for being poor. O Father and Hierarch St. Nicholas, intercede with Christ our God, and entreat Him to save our souls."
 
 meVE.GeneralApolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.GeneralApolytikion1.melody = he.ga_en_US_dedes.heGA.KanonaPisteos.name
