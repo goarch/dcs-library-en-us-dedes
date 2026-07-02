@@ -85,7 +85,7 @@ meVE.Aposticha3.incipit = "…"
 meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-meVE.AposGlory.Poet = poets_en_US_dedes.po.KosmaMonachou
+meVE.AposGlory.poet = poets_en_US_dedes.po.KosmaMonachou
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
