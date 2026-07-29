@@ -166,14 +166,14 @@ meVE.Apolytikion1.text = "Your Nativity, O Theotokos, imparted joy to the entire
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Kathisma11.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
-meMA.Kathisma11.incipit = "Shout, O David, and declare…"
-meMA.Kathisma11.text = "Shout, O David, and declare, * what oath did God swear to you? * And he answers, “What He swore, behold, He also has fulfilled, * for He has given the Virgin as the fruit of my loins. * From her has Christ the new Adam and Fashioner * been born, as it is written, to be King on my throne. * And He whose reign is unshakable is reigning today and forevermore. * The barren woman bears the Theotokos, * the nourisher of our Life.”"
+meMA.Kathisma11.incipit = "…"
+meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
-meMA.Kathisma21.incipit = me.m09.d07_en_US_dedes.meVE.Apolytikion1.incipit
-meMA.Kathisma21.text = me.m09.d07_en_US_dedes.meVE.Apolytikion1.text
+meMA.Kathisma21.incipit = "…"
+meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.Kathisma31.greekmelody = he.a.m8_en_US_dedes.heAU.ToProstachthen.greekname

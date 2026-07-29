@@ -123,8 +123,8 @@ meMA.Kathisma21.text = "O Adam, be rejuvenated; also Eve, leap for joy. * The ar
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Kathisma31.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.name
-meMA.Kathisma31.incipit = "Shout, O David, and declare…"
-meMA.Kathisma31.text = "Shout, O David, and declare, what oath did God swear to you? * And he answers, “What He swore, behold, He also has fulfilled, * for He has given the Virgin as the fruit of my loins. * From her has Christ the new Adam and Fashioner * been born, as it is written, to be King on my throne. * And He whose reign is unshakable is reigning today and forevermore. * The barren woman bears the Theotokos, * yes, the nourisher of our Life.”"
+meMA.Kathisma31.incipit = me.m09.d08_en_US_dedes.meMA.Kathisma11.incipit
+meMA.Kathisma31.text = me.m09.d08_en_US_dedes.meMA.Kathisma11.text
 
 meMA.C1.poet = poets_en_US_dedes.po.IoannouMonachou
 meMA.C1.title = titles_en_US_dedes.ti.CanonConsecration
