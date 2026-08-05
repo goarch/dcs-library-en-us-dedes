@@ -6,6 +6,7 @@ euFUN.translator = properties_en_US_dedes.version.translator
 
 euFUN.Key0100.title = "The Trisagion"
 
+euFUN.Key0101.title = "Memorial Troparia."
 euFUN.Key0101.mode = miscellanea_en_US_dedes.misc.Mode4
 euFUN.Key0101.incipit = oc.m4.d7_en_US_dedes.ocVE.Aposticha4.incipit
 euFUN.Key0101.text = oc.m4.d7_en_US_dedes.ocVE.Aposticha4.text
