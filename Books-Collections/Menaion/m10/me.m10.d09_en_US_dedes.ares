@@ -611,8 +611,8 @@ meMA.MM.Lauds1123as5678.text = properties_en_US_dedes.media.key
 
 meMA.LaudsGlory.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "…"
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.incipit = me.m10.d09_en_US_dedes.meVE.AposGlory.incipit
+meMA.LaudsGlory.text = me.m10.d09_en_US_dedes.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.LaudsTheotokion.melody = ""
