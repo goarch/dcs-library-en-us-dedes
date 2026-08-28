@@ -42,7 +42,7 @@ trVE.Stichera05.incipit = tr.d068_en_US_dedes.trMA.LaudsGlory.incipit
 trVE.Stichera05.text = tr.d068_en_US_dedes.trMA.LaudsGlory.text
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "Judas is truly a brood…"
 trVE.SticGlory.text = "Judas is truly a brood of those vipers who ate manna in the wilderness and murmured against the Provider; for while the food was still in their mouths, the ungrateful spoke against God; and he, the impious, holding in his mouth the heavenly Bread, plotted against the Savior, how to betray Him. O insatiable greed, and cruel daring! He sold the One who fed him. He kissed the Master and betrayed Him to death. Truly the transgressor is a son of theirs, and with them he has inherited perdition. But spare our souls from such inhumanity, O Lord, who alone are boundless in long-suffering."
 
@@ -582,12 +582,12 @@ trMA.Aposticha4.incipit = "O Christ God, the Creator…"
 trMA.Aposticha4.text = "O Christ God, the Creator of all, Your Mother, who without seed gave birth to You, saw You hanging on the Cross, and she cried out in anguish, “O my Son, where has the handsome sight of You set? I cannot bear to see You unjustly crucified. So, hurry and rise again, so that I may see Your resurrection from the dead on the third day.”"
 
 trMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "Lord, when You went up…"
 trMA.AposGlory.text = "Lord, when You went up onto the Cross, fear and trembling fell on creation. You prevented the earth from swallowing those who crucified You, but You allowed Hades to send up its prisoners, for the rebirth of humanity. Judge of the living and the dead, You came to give life and not death. O benevolent Savior, glory to You!"
 
 trMA.AposBoth.mode = miscellanea_en_US_dedes.misc.Mode8
-trMA.AposBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trMA.AposBoth.melody = ""
 trMA.AposBoth.incipit = "And so the pen was…"
 trMA.AposBoth.text = "And so the pen was dipped and the verdict was signed by unjust judges. And Jesus was convicted and sentenced to the cross. Creation suffers as it sees the Lord on the Cross. O Lord, who suffer for me in the nature of Your body, glory to You!"
 

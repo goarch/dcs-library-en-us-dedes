@@ -81,7 +81,7 @@ trVE.Stichera04.incipit = "Come now, O first-formed couple…"
 trVE.Stichera04.text = "Come now, O first-formed couple and pair, * who by the envy of humanity’s murderer * had fallen from heaven’s chorus * through having tasted of old * the most bitter sweetness of the fateful tree. * Behold, as the other Tree, which is truly all-venerable, * today is coming. Therefore run to it and with joy * cry aloud with faith, and embracing it say to it: * You, O all-venerable Cross * are truly our source of help; * we have partaken of your fruit, and incorruption instead of death * have we thus acquired * and great mercy and with certainty Eden once again."
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode3
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "O Christ our God, you…"
 trVE.SticGlory.text = "O Christ our God, you accepted your voluntary crucifixion for the general resurrection of the human race. And using the cross as a pen, you dipped your fingers in the red ink of your blood, and you signed our imperial pardon, as King, and thus showed mercy on humanity. Do not forsake us, who once again are in danger of being estranged from you. You alone are longsuffering; therefore take pity on your people in distress, and rise up and fight those who fight us; for you are the Almighty Lord."
 
@@ -91,7 +91,7 @@ trVE.LityGlory.incipit = "…"
 trVE.LityGlory.text = ""
 
 trVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode4
-trVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = me.m08.d01_en_US_dedes.meMA.LaudsBoth.incipit
 trVE.AposGlory.text = me.m08.d01_en_US_dedes.meMA.LaudsBoth.text
 

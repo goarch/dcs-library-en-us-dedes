@@ -52,7 +52,7 @@ alt1.meVE.Stichera04.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-meVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m03.d09_en_US_dedes.meVE.Stichera01.incipit
 meVE.SticGlory.text = me.m03.d09_en_US_dedes.meVE.Stichera01.text
 
@@ -105,7 +105,7 @@ meVE.Aposticha3.incipit = me.m03.d09_en_US_dedes.meMA.Lauds3.incipit
 meVE.Aposticha3.text = me.m03.d09_en_US_dedes.meMA.Lauds3.text
 
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
@@ -553,7 +553,7 @@ meMA.MM.Lauds123as456.text = properties_en_US_dedes.media.key
 meMA.MM.Lauds123as678.text = properties_en_US_dedes.media.key
 
 meMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-meMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "They looked at the lake…"
 meMA.AposGlory.text = "They looked at the lake and saw Paradise; they felt the freezing cold and imagined summer heat. Your Martyrs were mentally unafraid of the tyrants’ threats, O Christ our God. Brave as they were, they did not shrink from the onset of torture. Shielded by the divine armor of the Cross, these mighty men defeated the enemy; and for this each was awarded the crown of grace."
 

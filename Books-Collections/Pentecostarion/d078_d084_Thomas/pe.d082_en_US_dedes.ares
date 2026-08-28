@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Pascha is the present sacred…"
 peVE.Stichera03.text = "Pascha is the present sacred feast, * mystical, divine holy Pascha, * this saving Passover, * Pascha that transports us to immortal life with God, * holy Pascha that takes away dejection and sorrow, * Pascha that gave joyous grace to the disciples of Christ. * Thomas then cried out to the Savior, * “You despoiled the kingdom of Hades; * my Lord and my God are You undoubtedly.”"
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode4
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d078_en_US_dedes.peVE.Aposticha1.incipit
 peVE.SticGlory.text = pe.d078_en_US_dedes.peVE.Aposticha1.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m1.d5_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m1.d5_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode4
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d078_en_US_dedes.peVE.Aposticha2.incipit
 peVE.AposGlory.text = pe.d078_en_US_dedes.peVE.Aposticha2.text
 
@@ -121,6 +121,6 @@ peMA.Aposticha3.incipit = "Seeing You, King of all…"
 peMA.Aposticha3.text = "Seeing You, King of all, * now not with eyes, but rather * by heartfelt love and longing, * in hymns we magnify You, for we believe that You are God."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d078_en_US_dedes.peMA.LaudsGlory.incipit
 peMA.AposGlory.text = pe.d078_en_US_dedes.peMA.LaudsGlory.text

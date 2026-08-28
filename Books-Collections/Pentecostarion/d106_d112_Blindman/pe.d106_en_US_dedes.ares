@@ -40,7 +40,7 @@ peVE.Stichera10.incipit = "When Jesus left the Temple…"
 peVE.Stichera10.text = "When Jesus left the Temple, as He passed by He found a man blind from birth; and moved with compassion, He put mud on his eyes and said to him, “Go and wash in the pool of Siloam.” So he washed and received his sight, giving glory to God. But his kinsmen said to him, “Who is it that opened your eyes, which no one who sees was able to heal?” And he proclaimed and said to them, “A man called Jesus, He told me to wash in Siloam, and I received my sight. He is truly the one about whom Moses spoke in the Law, Christ, Messiah. He is the Savior of our souls.”"
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode5
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "O Lord, as You passed…"
 peVE.SticGlory.text = "O Lord, as You passed by on the road, You found a man who was blind from birth. Your Disciples wondered and they asked You, “Teacher, who was it that sinned, this man or his parents, that he was born blind?” And You, my Savior, said to them, “Neither this man nor his parents sinned, but that the works of God should be revealed in him. I must work the works of Him who sent Me, which no one can work.” When you had said these things, You spat on the ground and made clay; and You anointed his eyes, and said to him, “Go, wash in the Pool of Siloam.” So he went and washed and became well, and he cried out to You: “Lord, I believe!” And he worshipped You. Therefore we also likewise cry out: Have mercy on us!"
 
@@ -55,7 +55,7 @@ peVE.LityBoth.incipit = oc.m4.d1_en_US_dedes.ocVE.AposTheotokion.incipit
 peVE.LityBoth.text = oc.m4.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = "O Christ our God, the…"
 peVE.AposGlory.text = "O Christ our God, the noetic Sun of Righteousness, who by Your immaculate touch illumined in both ways the man who was deprived of sight from his mother’s womb, do also illumine the eyes of our souls, and make us sons of the day, so that with faith we may cry out to You: Great and ineffable is Your tenderheartedness for us, O Lord who loves humanity. Glory to You."
 

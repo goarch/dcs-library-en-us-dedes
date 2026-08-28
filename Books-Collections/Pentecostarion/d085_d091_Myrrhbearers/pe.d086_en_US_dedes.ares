@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Early on Sunday morning, the…"
 peVE.Stichera03.text = "Early on Sunday morning, the host * of pious women sought the Sun, who before the sun * existed, and who had now set within the tomb. And they heard * the resplendent Angel say, “Arisen is * the Light that went down and shined on the dead who in darkness slept. * To the Disciples go announce and proclaim to them. * Put away your grief and replace it with utter joy. * Joyfully celebrate in hearts unwavering that indeed * the world is granted salvation, this joyous Pascha and Passover. * For Christ has arisen, as the Lord who is bestowing great mercy on the world.”"
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode1
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d085_en_US_dedes.peVE.Lity1.incipit
 peVE.SticGlory.text = pe.d085_en_US_dedes.peVE.Lity1.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m2.d2_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m2.d2_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode1
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d085_en_US_dedes.peVE.Lity2.incipit
 peVE.AposGlory.text = pe.d085_en_US_dedes.peVE.Lity2.text
 
@@ -118,6 +118,6 @@ peMA.Aposticha3.incipit = "Now Christ has shined the…"
 peMA.Aposticha3.text = "Now Christ has shined the light of His * divine and holy Passover * on us all. Come, * let our souls brilliantly shine. * Behold now has arisen * the day of holy Pascha. * Let us with joy and gladness celebrate."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = oc.m2.d1_en_US_dedes.ocMA.Lauds5.incipit
 peMA.AposGlory.text = oc.m2.d1_en_US_dedes.ocMA.Lauds5.text

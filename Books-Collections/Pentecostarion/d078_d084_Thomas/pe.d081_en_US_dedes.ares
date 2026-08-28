@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "So great is the joy…"
 peVE.Stichera03.text = "So great is the joy that I receive, * O my Savior, seeing how Your resurrection was verified extraordinarily! * You commanded Thomas * to touch You. O daring deed! * And therefore we proclaim now dogmatically that You are God and man, * single person, with two energies * of the natures * from which You are comprised, O Lord."
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode4
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d078_en_US_dedes.peVE.Lity1.incipit
 peVE.SticGlory.text = pe.d078_en_US_dedes.peVE.Lity1.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m1.d4_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m1.d4_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d078_en_US_dedes.peVE.Lity2.incipit
 peVE.AposGlory.text = pe.d078_en_US_dedes.peVE.Lity2.text
 

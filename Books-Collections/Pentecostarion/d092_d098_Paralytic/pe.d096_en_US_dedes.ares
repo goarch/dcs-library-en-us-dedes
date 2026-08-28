@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "O very merciful Christ…"
 peVE.Stichera03.text = "O very merciful Christ, You see me lying * in my sins as if upon a bed of pain, O Lord, * as if my members are paralyzed. Now I implore You, * mystically raise me as You once raised the man * who was paralyzed, when in the ocean of your love * for man You willed to become a man, and also help me * to run according to Your divine commands. * Before You Passion, You, O Savior, had * demonstrated through many great miracles * to the Jews that You are God, * and You choose to suffer physically."
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "When you went to the Temple…"
 peVE.SticGlory.text = "When you went to the Temple about the middle of the feast, O Christ our God, You taught the people and said, “He who believes in me, even if he dies, shall live.” But the Jewish Pharisees, Sadducees, and Scribes were cut to the quick, and they said, “Who is this man who speaks blasphemies?” They did not consider that You are our God, before all ages glorified with the Father and Spirit. Glory to You."
 
@@ -52,7 +52,7 @@ peVE.Aposticha3.text = oc.m3.d5_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.poet = poets_en_US_dedes.po.Germanou
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode3
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = "At this mid-Feast, we glorify…"
 peVE.AposGlory.text = "At this mid-Feast, we glorify the Lord, who worked salvation in the midst of the earth. Amid two robbers, life himself hung on the Cross. He was silent to the one who railed at Him, but to the other who believed He said, “Today you will be with me in Paradise.” While entombed, He went down and despoiled Hades; and on the third day He rose, saving our souls."
 
@@ -123,7 +123,7 @@ peMA.Aposticha3.text = "Wishing to save me, Lord, * You wondrously became flesh 
 
 peMA.AposGlory.poet = poets_en_US_dedes.po.IoannouMonachou
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = "About the middle of the…"
 peMA.AposGlory.text = "About the middle of the feast, before Your Passion and Your glorious Resurrection, O good Lord, in the Temple You were teaching the Jewish people, and the Pharisees and the Scribes who did not believe, and You were saying to them, “If any one thirst, let him come to Me and drink. He who believes in Me, out of his heart shall flow rivers of the water of life, of the Holy Spirit.” How wonderful, Your ineffable wisdom and understanding! Our God, who fills all things, glory to You!"
 

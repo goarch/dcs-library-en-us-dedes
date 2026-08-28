@@ -46,7 +46,7 @@ euVE.MM.Stichera1234as78910.text = properties_en_US_dedes.media.key
 
 euVE.SticBoth.poet = poets_en_US_dedes.po.Anatoliou
 euVE.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode2
-euVE.SticBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+euVE.SticBoth.melody = ""
 euVE.SticBoth.incipit = me.m09.d13_en_US_dedes.meVE.AposGlory.incipit
 euVE.SticBoth.text = me.m09.d13_en_US_dedes.meVE.AposGlory.text
 euVE.SticBoth1.text = "As we perform the consecration of the all-sacred church" //split hymn to insert name of church
@@ -71,7 +71,7 @@ euVE.Aposticha3.incipit = me.m09.d13_en_US_dedes.meMA.Lauds6.incipit
 euVE.Aposticha3.text = me.m09.d13_en_US_dedes.meMA.Lauds6.text
 
 euVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode3
-euVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+euVE.AposGlory.melody = ""
 euVE.AposGlory.incipit = me.m09.d13_en_US_dedes.meMA.LaudsGlory.incipit
 euVE.AposGlory.text = me.m09.d13_en_US_dedes.meMA.LaudsGlory.text
 

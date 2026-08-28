@@ -48,7 +48,7 @@ meVE.Stichera04.incipit = me.m12.d25_en_US_dedes.meVE.Stichera04.incipit
 meVE.Stichera04.text = me.m12.d25_en_US_dedes.meVE.Stichera04.text
 
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m12.d25_en_US_dedes.meMA.PostGospelIdiomelon.incipit
 meVE.SticGlory.text = me.m12.d25_en_US_dedes.meMA.PostGospelIdiomelon.text
 
@@ -69,7 +69,7 @@ meVE.Aposticha3.incipit = "How shall I describe this…"
 meVE.Aposticha3.text = "How shall I describe this great mystery? The discarnate Logos becomes incarnate and physical; the invisible One is now seen; and He who is intangible is being touched and held. The unoriginate begins to be. The Son of God becomes the Son of man, yes, Jesus Christ, the same yesterday and today, and forever."
 
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-meVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "The shepherds went with haste…"
 meVE.AposGlory.text = "The shepherds went with haste to Bethlehem, and they made known the true Shepherd, who while seated on the cherubim was lying in a manger; for He had taken the form of an infant for our sake. O Lord, glory to You!"
 

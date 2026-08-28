@@ -25,7 +25,7 @@ peVE.Stichera02.incipit = pe.d092_en_US_dedes.peVE.Stichera10.incipit
 peVE.Stichera02.text = pe.d092_en_US_dedes.peVE.Stichera10.text
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode5
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d092_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d092_en_US_dedes.peVE.SticGlory.text
 
@@ -45,7 +45,7 @@ peVE.Aposticha3.incipit = oc.m3.d3_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m3.d3_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d092_en_US_dedes.peVE.AposGlory.incipit
 peVE.AposGlory.text = pe.d092_en_US_dedes.peVE.AposGlory.text
 
@@ -112,7 +112,7 @@ peMA.Aposticha3.incipit = "The man who suffered from…"
 peMA.Aposticha3.text = "The man who suffered from paralysis for many years * cried out to You, “Have mercy * on me, for I am stuck here. * There is no one who will help me.” Then You, Christ the Savior, * tightened his members and said, * “Take up your bed and walk!” * which he did, O Redeemer."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode5
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d092_en_US_dedes.peVE.LityGlory.incipit
 peMA.AposGlory.text = pe.d092_en_US_dedes.peVE.LityGlory.text
 

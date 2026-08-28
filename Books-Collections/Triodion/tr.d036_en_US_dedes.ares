@@ -37,12 +37,12 @@ trVE.Stichera03.text = "Are there any lips of earthborn men that can worthily ex
 trVE.MM.Stichera1123as78910.text = properties_en_US_dedes.media.key
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "O devout, thrice-blessed, all-holy Father…"
 trVE.SticGlory.text = "O devout, thrice-blessed, all-holy Father, good Shepherd, and Disciple of Christ the Chief Shepherd, you laid down your life for the sheep. O our God-bearing Father, Gregory, pray for us, that by your intercessions the Lord grant us His great mercy."
 
 trVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = "Your tongue, watchful in teaching…"
 trVE.AposGlory.text = "Your tongue, watchful in teaching, rings in the ears of our hearts and awakens the souls of the slothful. Your words, inspired by God, are a ladder leading us from earth to heaven. O Gregory, the marvel of Thessaly, pray to Christ without ceasing, that we who honor you may be illumined with the divine light."
 

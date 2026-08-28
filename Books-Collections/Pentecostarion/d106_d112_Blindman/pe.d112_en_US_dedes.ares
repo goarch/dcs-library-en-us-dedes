@@ -52,7 +52,7 @@ peVE.Aposticha3.incipit = "At Your divine command, *…"
 peVE.Aposticha3.text = "At Your divine command, * a cloud of light received You * and carried You to heaven, * as trembling Angels served You * and ministered with fear and awe."
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode7
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = "You came to the Mount…"
 peVE.AposGlory.text = "You came to the Mount of Olives, O Lord who are merciful to the human race, and a cloud carried You away, out of sight of Your Disciples. They trembled because of what they were seeing, and yet rejoiced because of what they awaited, namely the Holy Spirit. O Savior, uphold us with Your Spirit and have mercy on us."
 
@@ -85,6 +85,6 @@ peMA.Aposticha3.incipit = "Your Disciples came down *…"
 peMA.Aposticha3.text = "Your Disciples came down * from Olivet with great joy, * O Logos, glorifying * Your glorious Ascension, * praising and blessing You, O God."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = "You ascended in glory from…"
 peMA.AposGlory.text = "You ascended in glory from earth into heaven, You who in Divinity fill all things; and You sat at the right hand of the Father, You who are in the beginning God the Logos. The heavenly hosts saw this, and in awe they said to the Apostles, “Do You know whom you are staring at, looking into heaven? The One whom you saw will come again in glory, to judge all the earth, and to reward each person according to their deeds.” Let us cry out to Him, “O incomprehensible Lord, glory to You!”"

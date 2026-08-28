@@ -601,7 +601,7 @@ meMA.ExapTheotokion.text = da.d7_en_US_dedes.daMA.ExapTheotokion2.text
 
 meMA.AposGlory.poet = poets_en_US_dedes.po.FotiouPatriarchou
 meMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-meMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "The great Hierarch Methodius rose…"
 meMA.AposGlory.text = "The great Hierarch Methodius rose as a star of Orthodoxy from where the visible sun sets; he dispelled the mist of the heretics, and he reposed in the true orient of the rising of the Sun of Righteousness, Christ our God. And there, he is in the company of bodiless hosts, and he stands near the throne of the Trinity, as a Monastic, as a Martyr, as a Priest, and as a Patriarch, in the active life and in contemplation; and he prays that great mercy be given to us who in faith observe his sacred memory."
 

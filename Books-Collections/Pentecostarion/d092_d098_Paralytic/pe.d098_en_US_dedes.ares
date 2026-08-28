@@ -31,12 +31,12 @@ peVE.Stichera03.incipit = "The Lord and giver of…"
 peVE.Stichera03.text = "The Lord and giver of wisdom, providing all things good, * and pouring out divine streams from His fathomless fountain, * cried out, “All you who thirst, come to me and drink; * draw from me the water of life; * and from within you will flow rivers of divine * gifts of grace, if you believe in me.”"
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode1
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d095_en_US_dedes.peVE.Aposticha1.incipit
 peVE.SticGlory.text = pe.d095_en_US_dedes.peVE.Aposticha1.text
 
 peVE.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode3
-peVE.SticBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticBoth.melody = ""
 peVE.SticBoth.incipit = oc.m3.d1_en_US_dedes.ocVE.SticTheotokion.incipit
 peVE.SticBoth.text = oc.m3.d1_en_US_dedes.ocVE.SticTheotokion.text
 
@@ -61,7 +61,7 @@ peVE.Aposticha4.incipit = oc.m3.d1_en_US_dedes.ocVE.Aposticha1.incipit
 peVE.Aposticha4.text = oc.m3.d1_en_US_dedes.ocVE.Aposticha1.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode1
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d095_en_US_dedes.peVE.Aposticha2.incipit
 peVE.AposGlory.text = pe.d095_en_US_dedes.peVE.Aposticha2.text
 
@@ -128,6 +128,6 @@ peMA.Aposticha3.incipit = "You, the Creator, came *…"
 peMA.Aposticha3.text = "You, the Creator, came * to Zion, and You stood up * in the midst of Your people. * You gave Your saving grace to all people who believed in You."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode4
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d096_en_US_dedes.peMA.LaudsGlory.incipit
 peMA.AposGlory.text = pe.d096_en_US_dedes.peMA.LaudsGlory.text

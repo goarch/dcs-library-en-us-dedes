@@ -90,7 +90,7 @@ meVE.Stichera03.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode4
-meVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Three times, Christ asked Peter…"
 meVE.SticGlory.text = "Three times, Christ asked Peter, “Do you love me?” In this way He remedied the three denials. And Simon replied to Him, who knows all secrets, “Lord, You know everything. You are aware of everything. You know that I love You.” Then the Savior said to him, “Tend my sheep. Tend my chosen. Tend my lambs, which by my blood I have made my own for their salvation.” O Apostle, whom God called blessed, entreat Him to grant us His great mercy."
 
@@ -157,7 +157,7 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.po.EfraimKarias
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "A joyous feast is shining…"
 meVE.AposGlory.text = "A joyous feast is shining on the whole world today. It is the preeminent commemoration of the most wise and paramount Apostles, Peter and Paul. O brethren, let us also joyfully celebrate this solemn day, with hymns and poetry, and let us salute them and say, “Rejoice! O Peter, Apostle and genuine friend of your teacher, Christ our God! Rejoice! O beloved Paul, preacher of the faith and teacher of the whole world! As you were both chosen in holiness and have confidence in prayer, earnestly entreat Christ our God, for the salvation of our souls.”"
 

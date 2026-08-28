@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Piously let us extol the…"
 peVE.Stichera03.text = "Piously let us extol the Holy Spirit, who sanctifies * and enlightens the universe. * With faith let us cry aloud, “You who in the Father’s * good pleasure have come to the world, do not depart from us, * who serve and worship Your true divinity; * but grant us to be temples of Your grace and goodness ineffable. * And we pray You to sanctify * all who faithfully sing Your praise.”"
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode7
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "As we have an Advocate…"
 peVE.SticGlory.text = "As we have an Advocate with the Father, namely Christ our God, today let us faithfully worship the other Advocate, who has come to earth, the Comforter, the Spirit of truth."
 
@@ -52,7 +52,7 @@ peVE.Aposticha3.incipit = "The all-holy Spirit, who is…"
 peVE.Aposticha3.text = "The all-holy Spirit, who is God, * is to be acknowledged as sharing the same throne and nature with the Father and the Word. * He is super-perfect * light that shines out from the light; * from the perfect unoriginate Father He comes forth and through the Son. * “O Paraclete, the giver of life, * we entreat You to grant the gift of peace to the world.”"
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d120_en_US_dedes.peVE.LityGlory.incipit
 peVE.AposGlory.text = pe.d120_en_US_dedes.peVE.LityGlory.text
 

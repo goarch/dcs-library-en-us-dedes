@@ -36,7 +36,7 @@ peVE.Stichera10.text = "At early dawn the Myrrh-bearing women earnestly came to 
 
 peVE.SticGlory.poet = poets_en_US_dedes.po.KosmaMonachou
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "The myrrh-bearing women arrived at…"
 peVE.SticGlory.text = "The myrrh-bearing women arrived at your sepulcher, and they saw the seals on the gravestone, but they did not find Your immaculate Body, O Lord. They had come in all earnestness, and lamenting they said, “Who has stolen our hope? Who took away the dead man, naked and covered with myrrh, his mother’s only consolation? He who revived the dead, oh, how has He died? He who plundered Hades, how was He buried? Nevertheless, arise, O Savior, by Your own authority, on the third day, as You said You would, and save our souls.”"
 
@@ -66,7 +66,7 @@ peVE.LityBoth.incipit = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.incipit
 peVE.LityBoth.text = oc.m6.d1_en_US_dedes.ocVE.AposTheotokion.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode5
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = tr.d070_en_US_dedes.trVE.AposGlory.incipit
 peVE.AposGlory.text = tr.d070_en_US_dedes.trVE.AposGlory.text
 

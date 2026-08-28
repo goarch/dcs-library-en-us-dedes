@@ -115,12 +115,12 @@ meVE.Stichera07.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.po.Vyzantiou
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Today, like a shining star…"
 meVE.SticGlory.text = "Today, like a shining star, the lamp of the Light prepares the way for the coming of God the Logos. Today, Zacharias found his tongue, after exercising silence at the Angel’s command. For it was fitting that the father of the voice no longer keep silent, once the voice came forth from the once barren womb, that voice which would proclaim the good news of the deliverance of the whole world, with great outspokenness."
 
 meVE.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.SticBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.SticBoth.melody = ""
 meVE.SticBoth.incipit = "Elizabeth had conceived the Forerunner…"
 meVE.SticBoth.text = "Elizabeth had conceived the Forerunner of grace; the Virgin conceived the Lord of glory. The mothers greeted each other, and the babe leaped for joy; for even in the womb, the servant extolled the Master. The mother of the Forerunner marveled, and she exclaimed with a loud cry, “Why is this granted me, that the mother of my Lord should come to me?” That He might save a people in despair. O Lord, who have the great mercy, glory to You!"
 
@@ -167,12 +167,12 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.poet = poets_en_US_dedes.po.KassiasMonachis
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-meVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "The words of the Prophet…"
 meVE.AposGlory.text = "The words of the Prophet Isaiah are fulfilled today with the birth of John who was greater than the prophets. For he said, “Behold, I will send my Messenger before you, who will prepare your way.” He who was the soldier of the heavenly King went ahead and truly made straight the highways of our God. He was a man by nature and an Angel in his way of life; for embracing complete chastity and self-restraint, he was in a state according to nature, and he rejected what was contrary to nature, and he strove to transcend nature. Come, all the faithful, let us emulate his virtues, and entreat him to intercede on our behalf, for the salvation of our souls."
 
 meVE.AposBoth.mode = miscellanea_en_US_dedes.misc.Mode8
-meVE.AposBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = "Watch as Elizabeth speaks with…"
 meVE.AposBoth.text = "Watch as Elizabeth speaks with the Virgin Mary: “Why have you come to me, O Mother of my Lord? You are carrying the King; I carry His soldier. You, the One who gave the Law; I the one who lays down the Law. You the Word; I His voice, which proclaims the kingdom of heaven.”"
 

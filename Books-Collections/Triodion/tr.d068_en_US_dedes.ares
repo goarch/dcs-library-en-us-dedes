@@ -69,7 +69,7 @@ trVE.Stichera10.incipit = tr.d067_en_US_dedes.trMA.Aposticha4.incipit
 trVE.Stichera10.text = tr.d067_en_US_dedes.trMA.Aposticha4.text
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d067_en_US_dedes.trMA.AposGlory.incipit
 trVE.SticGlory.text = tr.d067_en_US_dedes.trMA.AposGlory.text
 
@@ -611,7 +611,7 @@ trMA.Aposticha4.incipit = "Let no one, O believers…"
 trMA.Aposticha4.text = "Let no one, O believers, let no one uninitiated dare to approach the table of the Lord’s supper deceitfully, like Judas. For when he received the morsel, he turned against the Bread. In appearance he was a disciple, but in reality he was there as a murderer, rejoicing with the Jews, while keeping company with the Apostles. Hating, he kissed; kissing, he sold the One who redeemed us from the curse, our God and Savior of our souls."
 
 trMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = tr.d068_en_US_dedes.trMA.Aposticha3.incipit
 trMA.AposGlory.text = tr.d068_en_US_dedes.trMA.Aposticha3.text
 

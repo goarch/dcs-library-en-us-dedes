@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Now we celebrate the sacred…"
 peVE.Stichera03.text = "Now we celebrate the sacred feast * of the godly Myrrh-bearing Women and noble Joseph today. * It is like a Paradise, which has a fountain of life; * and it rains on the universe * divine grace like water, * pouring out the blessings of the resurrection of Christ. * Gaily celebrating, believers * cry out saying, “Glory to Him who * gave His resurrection to the universe!”"
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d085_en_US_dedes.peVE.Stichera10.incipit
 peVE.SticGlory.text = pe.d085_en_US_dedes.peVE.Stichera10.text
 
@@ -117,6 +117,6 @@ peMA.Aposticha3.incipit = "Joseph, when they saw you…"
 peMA.Aposticha3.text = "Joseph, when they saw you bury Christ, * all the hosts of Angels were shuddering in astonishment. * You are now called blessed by the Church throughout the world. * We the faithful extol the Lord’s divine Resurrection, * and we honor you and the Myrrh-bearing women today. * Therefore we unceasingly cry out: * Join them praying for our salvation * from perils, disaster, and catastrophe."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode1
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d085_en_US_dedes.peVE.Lity2.incipit
 peMA.AposGlory.text = pe.d085_en_US_dedes.peVE.Lity2.text

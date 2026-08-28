@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Standing inside the temple was…"
 peVE.Stichera03.text = "Standing inside the temple was Christ, * as Lord and God, uncircumscribable as He was, * for He was divine in nature, for us now human as well, * circumscribed in body, visible as man. * To all who gave heed to Him He poured out His life-giving words. * To all He uttered, saying, “All of you, wash your souls, * and enjoy relief from the passions’ oppressive heat. * People, let no one be deprived of my vivifying drink, * for I am granting divine grace of the immortal, superior, * and heavenly Kingdom. * If you join me, the Creator, you will be glorified.”"
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d095_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d095_en_US_dedes.peVE.SticGlory.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m3.d6_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m3.d6_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d096_en_US_dedes.peMA.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_en_US_dedes.peMA.AposGlory.text
 
@@ -120,7 +120,7 @@ peMA.Aposticha3.incipit = "“Come obediently * and drink…"
 peMA.Aposticha3.text = "“Come obediently * and drink my grace, all you who * long to drink living water; * and celebrate in spirit.” * So did my Savior cry aloud."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = "Let us purify our inner…"
 peMA.AposGlory.text = "Let us purify our inner selves of intrusive thoughts, and let us peer through the polished lenses of our soul; and we shall behold Christ, our Life, as He goes to the temple, in His surpassing goodness, to triumph over the enemy and to save the human race, through suffering on the Cross and the Resurrection. And let us sing to Him, “O incomprehensible Lord, glory to You!”"
 

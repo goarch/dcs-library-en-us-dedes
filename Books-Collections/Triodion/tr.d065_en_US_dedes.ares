@@ -33,12 +33,12 @@ trVE.Stichera03.incipit = tr.d064_en_US_dedes.trVE.Aposticha3.incipit
 trVE.Stichera03.text = tr.d064_en_US_dedes.trVE.Aposticha3.text
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d065_en_US_dedes.trVE.Stichera01.incipit
 trVE.SticGlory.text = tr.d065_en_US_dedes.trVE.Stichera01.text
 
 trVE.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode8
-trVE.SticBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticBoth.melody = ""
 trVE.SticBoth.incipit = tr.d065_en_US_dedes.trVE.Stichera03.incipit
 trVE.SticBoth.text = tr.d065_en_US_dedes.trVE.Stichera03.text
 
@@ -58,12 +58,12 @@ trVE.Aposticha3.incipit = "O congregation of the Synagogue…"
 trVE.Aposticha3.text = "O congregation of the Synagogue, as a woman that loves evil things, an adulteress, unfaithful to her husband, why do you hold a covenant to which you are not heir? Why do you boast of the Father, since you rejected the Son? At least be embarrassed by your own children, who are shouting, “Hosanna to the Son of David! Blessed is He who comes in the name of the Lord!”"
 
 trVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-trVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = tr.d065_en_US_dedes.trVE.Aposticha1.incipit
 trVE.AposGlory.text = tr.d065_en_US_dedes.trVE.Aposticha1.text
 
 trVE.AposBoth.mode = miscellanea_en_US_dedes.misc.Mode3
-trVE.AposBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.AposBoth.melody = ""
 trVE.AposBoth.incipit = tr.d065_en_US_dedes.trVE.Aposticha2.incipit
 trVE.AposBoth.text = tr.d065_en_US_dedes.trVE.Aposticha2.text
 
@@ -418,7 +418,7 @@ trMA.Aposticha3.incipit = "Being frightened by the punishment…"
 trMA.Aposticha3.text = "Being frightened by the punishment of the fig tree, which withered because it did not bear fruit, O brethren, let us bring worthy fruits of repentance to Christ, who grants us His great mercy."
 
 trMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "The serpent, finding the Egyptian…"
 trMA.AposGlory.text = "The serpent, finding the Egyptian woman to be a second Eve through the words she spoke, hastened through flattery to cause Joseph to fall. But Joseph abandoned his garment, and thus he fled from sin. And though he was naked, he was unashamed, like Adam, the first man, was before he disobeyed. At his entreaties, O Christ, have mercy on us."
 

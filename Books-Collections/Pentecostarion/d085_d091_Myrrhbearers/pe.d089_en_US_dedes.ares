@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Joseph you are like the…"
 peVE.Stichera03.text = "Joseph you are like the chariot * of the Cherubim on whose shoulders the Word of God reclines, * for on your own blessed shoulders you are carrying Christ, * who became flesh and now has died, and whom you now bury. * He has brought us back to life, for we were dead in sin. * When He died you mourned and lamented * with the holy Myrrh-bearing women. * Seeing Him arisen now you all rejoice."
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode1
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d085_en_US_dedes.peVE.Lity3.incipit
 peVE.SticGlory.text = pe.d085_en_US_dedes.peVE.Lity3.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m2.d5_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m2.d5_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = oc.m2.d1_en_US_dedes.ocMA.Lauds5.incipit
 peVE.AposGlory.text = oc.m2.d1_en_US_dedes.ocMA.Lauds5.text
 
@@ -118,6 +118,6 @@ peMA.Aposticha3.incipit = "Christ the Lord has shone…"
 peMA.Aposticha3.text = "Christ the Lord has shone forth from the tomb * beautiful and radiant, showing us unapproachable light. * Hades has been overthrown; Satan has disappeared. * All the ends of the earth rejoice, creation is dancing. * And the Church of Christ is honoring the memory * of the wise disciple St. Joseph * and the holy Myrrh-bearing women, * singing festive hymns today extolling them."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d085_en_US_dedes.peVE.Stichera09.incipit
 peMA.AposGlory.text = pe.d085_en_US_dedes.peVE.Stichera09.text

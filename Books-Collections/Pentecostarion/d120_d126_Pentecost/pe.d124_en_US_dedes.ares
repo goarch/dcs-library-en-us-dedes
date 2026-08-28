@@ -85,6 +85,6 @@ peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d120_en_US_dedes.peVE.Stichera05.incipit
 peMA.AposGlory.text = pe.d120_en_US_dedes.peVE.Stichera05.text

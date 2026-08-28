@@ -49,7 +49,7 @@ trVE.Stichera03.incipit = "Venerating the Cross of the…"
 trVE.Stichera03.text = "Venerating the Cross of the Master today, let us cry aloud: * Tree of life, and destroyer of Hades, we salute you. * Rejoice, universal joy, remover of corruption. * Rejoice, for you drive away the demons by your power. * The believers’ firm support, the shield that is shatter-proof: * we entreat you, keep us safe * and sanctify us venerating you today."
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d043_en_US_dedes.trMA.AdditionalIdiomelonGlory.incipit
 trVE.SticGlory.text = tr.d043_en_US_dedes.trMA.AdditionalIdiomelonGlory.text
 

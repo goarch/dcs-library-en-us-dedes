@@ -51,7 +51,7 @@ trVE.Stichera07.incipit = "Today, Hades groans and cries…"
 trVE.Stichera07.text = "Today, Hades groans and cries out, “My power has been swallowed up; the Shepherd has been crucified; and He raised Adam. I have been deprived of those, over whom I ruled; and I have thrown up all those, whom I had swallowed when I was strong. He who was crucified has emptied the tombs. The power of death is no longer in force.” Glory to Your Cross and Your Resurrection, O Lord!"
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d070_en_US_dedes.trMA.LaudsGlory.incipit
 trVE.SticGlory.text = tr.d070_en_US_dedes.trMA.LaudsGlory.text
 

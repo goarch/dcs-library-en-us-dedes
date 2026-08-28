@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Christ’s women disciples stopped their…"
 peVE.Stichera03.text = "Christ’s women disciples stopped their tears, * tears that flowed from fountains of mourning and lamentation; and now * they bring the eye-witnesses of grace the joyful words. * For they come and announce to them * the Lord’s resurrection, * that the Logos has arisen, bringing joy from the tomb, * and that they had wondrously heard His * voice commanding them to rejoice now, * the opposite of pain and sorrow from of old."
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d085_en_US_dedes.peVE.SticGlory.incipit
 peVE.SticGlory.text = pe.d085_en_US_dedes.peVE.SticGlory.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m2.d4_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m2.d4_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d085_en_US_dedes.peVE.LityGlory.incipit
 peVE.AposGlory.text = pe.d085_en_US_dedes.peVE.LityGlory.text
 
@@ -117,7 +117,7 @@ peMA.Aposticha3.incipit = "When our Most High God…"
 peMA.Aposticha3.text = "When our Most High God upon the earth * was entombed as one dead, His women Disciples hastened to bring * fragrant oils and sacred ointments to anoint Him with. * But they found sitting on the tomb a radiant young man. * Seeing him they were astonished by his dazzling form. * Then, being informed of third-day * rising from the tomb of the Logos, * they told it to His Apostles joyfully."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode5
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d085_en_US_dedes.peVE.AposGlory.incipit
 peMA.AposGlory.text = pe.d085_en_US_dedes.peVE.AposGlory.text
 

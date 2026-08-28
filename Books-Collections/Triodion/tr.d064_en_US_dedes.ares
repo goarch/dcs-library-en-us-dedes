@@ -87,12 +87,12 @@ trVE.Stichera05.incipit = "Six days before the Passover…"
 trVE.Stichera05.text = "Six days before the Passover, Jesus came to Bethany. Then, his disciples approached Him and said to Him, “Lord, where will You have us prepare for You to eat the Passover?” And He answered them, “Go into the village opposite you, and you will find a man carrying a jar of water. Follow him, and tell the master of the house, ‘The Teacher says, I shall keep the Passover at your house with My disciples.’”"
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d064_en_US_dedes.trVE.Stichera01.incipit
 trVE.SticGlory.text = tr.d064_en_US_dedes.trVE.Stichera01.text
 
 trVE.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode6
-trVE.SticBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticBoth.melody = ""
 trVE.SticBoth.incipit = tr.d064_en_US_dedes.trVE.Stichera01.incipit
 trVE.SticBoth.text = tr.d064_en_US_dedes.trVE.Stichera01.text
 
@@ -142,12 +142,12 @@ trVE.Aposticha3.incipit = "O Good One, You ride…"
 trVE.Aposticha3.text = "O Good One, You ride on the Cherubim, and You are praised by the Seraphim. And now You rode on a foal, like David said, and children extolled You as God. The Jews blasphemed, in violation of the Law. Your sitting on the foal prefigured that untamed Gentiles would be converted from unbelief to faith. Glory to You, O Christ; only You are merciful and benevolent."
 
 trVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-trVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = tr.d064_en_US_dedes.trVE.Stichera01.incipit
 trVE.AposGlory.text = tr.d064_en_US_dedes.trVE.Stichera01.text
 
 trVE.AposBoth.mode = miscellanea_en_US_dedes.misc.Mode6
-trVE.AposBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.AposBoth.melody = ""
 trVE.AposBoth.incipit = tr.d064_en_US_dedes.trVE.Stichera01.incipit
 trVE.AposBoth.text = tr.d064_en_US_dedes.trVE.Stichera01.text
 

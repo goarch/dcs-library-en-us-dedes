@@ -49,7 +49,7 @@ trVE.Stichera06.incipit = tr.d066_en_US_dedes.trMA.Aposticha3.incipit
 trVE.Stichera06.text = tr.d066_en_US_dedes.trMA.Aposticha3.text
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode7
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d066_en_US_dedes.trMA.AposGlory.incipit
 trVE.SticGlory.text = tr.d066_en_US_dedes.trMA.AposGlory.text
 
@@ -450,7 +450,7 @@ trMA.Aposticha4.incipit = "That woman, who was spurned…"
 trMA.Aposticha4.text = "That woman, who was spurned because of her way of life, for which she had earned ill repute as a harlot, came to You with the fragrant oil in hand, and she cried out, “Please, do not throw me out for being a harlot, O Savior, born of the Virgin. Please, do not dismiss my tears and weeping, O Master, the joy of the Angels. You did not reject me when I was sinning, so now accept me as I am repenting, O Lord, because of Your great mercy.”"
 
 trMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "Lord, when the woman who…"
 trMA.AposGlory.text = "Lord, when the woman who had fallen into many sins perceived Your divinity, she assumed the role of a myrrh-bearing woman, and lamenting brought fragrant oils to anoint You before Your burial. “Woe is me,” she says. “Night for me is a frenzy without restraint, very dark and moonless, a sinful love-affair. Accept the fountains of my tears, You who draw out from the clouds the water of the sea. Take pity on me, and incline to the sighing of my heart, You who bowed the heavens by Your ineffable self-emptying. I shall cover Your unstained feet with kisses, and wipe them dry again with the locks of my hair; those feet, whose sound at twilight in Paradise echoed in Eve’s ears, and she hid in fear. Who can reckon the multitude of my sins, or fathom the depths of Your judgments, O my life-saving Savior? Do not despise me, Your servant, since without measure is Your mercy.”"
 

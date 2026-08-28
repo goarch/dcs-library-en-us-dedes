@@ -92,7 +92,7 @@ meVE.Aposticha3.incipit = "All we born on earth…"
 meVE.Aposticha3.text = "All we born on earth, come let us sing a holy song and observe * the divine, sacred festival * of devout and holy John * and extol him with hymns today. * For he was granted reception of the light * of the divine lumination in himself. * Oh, this ineffable * tender love of Yours, O Lord, by which we know * to give glory unto You * who are surpassingly good."
 
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m01.d15_en_US_dedes.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m01.d15_en_US_dedes.meVE.AposGlory.text
 

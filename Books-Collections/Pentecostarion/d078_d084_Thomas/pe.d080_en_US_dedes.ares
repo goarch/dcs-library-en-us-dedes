@@ -120,6 +120,6 @@ peMA.Aposticha3.incipit = "Since You rose from the…"
 peMA.Aposticha3.text = "Since You rose from the tomb * and also resurrected * the world from Hades’ prison, * You give Your people peace, O Redeemer and almighty God."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d078_en_US_dedes.peVE.SticGlory.incipit
 peMA.AposGlory.text = pe.d078_en_US_dedes.peVE.SticGlory.text

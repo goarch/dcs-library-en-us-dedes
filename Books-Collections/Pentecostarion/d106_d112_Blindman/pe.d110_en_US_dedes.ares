@@ -86,7 +86,7 @@ peVE.Stichera05.incipit = "When You had completed…"
 peVE.Stichera05.text = "When You had completed the mystery of Your plan for our salvation, O Lord, You took Your Disciples with You and went up onto the Mount of Olives. And behold, You passed through the sky’s firmament, You who for my sake became poor like me. And now, having ascended to there from where You were never gone, send out Your all-holy Spirit, to illumine our souls."
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "You never left…"
 peVE.SticGlory.text = "You never left the Father’s bosom, O sweetest Jesus, even as You lived among those on earth as man. And today, You ascended in glory from the Mount of Olives, and sympathetically You also exalted our fallen nature, and You seated it with the Father. Therefore the celestial orders of the bodiless hosts were amazed by the wonder, and they were struck with astonishment, and overcome with trembling they extolled Your benevolence. We on earth join them in glorifying Your condescension to us and Your ascension from us, and we entreat You and say: You filled Your Disciples and Your Mother the Theotokos with infinite joy by Your Ascension; by their prayers, will You also count us worthy of the joy of Your elect, because of Your great mercy."
 
@@ -141,7 +141,7 @@ peVE.Aposticha3.incipit = "You ascended in glory from…"
 peVE.Aposticha3.text = "You ascended in glory from the Mount of Olives in the presence of Your Disciples, O Christ God, and You sat at the right hand of the Father, You who fill the universe with Your Divinity. And You sent them the Holy Spirit, which illumines and strengthens and sanctifies our souls."
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = "God ascended with a shout…"
 peVE.AposGlory.text = "God ascended with a shout, the Lord with the sound of the trumpet, to exalt the fallen image of Adam, and to send the Paraclete Spirit to sanctify our souls."
 

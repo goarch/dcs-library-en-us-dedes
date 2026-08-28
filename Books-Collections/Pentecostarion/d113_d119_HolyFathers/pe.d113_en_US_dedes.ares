@@ -54,7 +54,7 @@ peVE.Stichera10.incipit = "…"
 peVE.Stichera10.text = ""
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = me.m10.dHF_en_US_dedes.meVE.SticGlory.incipit
 peVE.SticGlory.text = me.m10.dHF_en_US_dedes.meVE.SticGlory.text
 
@@ -69,12 +69,12 @@ peVE.LityBoth.incipit = pe.d110_en_US_dedes.peVE.Stichera05.incipit
 peVE.LityBoth.text = pe.d110_en_US_dedes.peVE.Stichera05.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode4
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = me.m10.dHF_en_US_dedes.meVE.AposGlory.incipit
 peVE.AposGlory.text = me.m10.dHF_en_US_dedes.meVE.AposGlory.text
 
 peVE.AposBoth.mode = miscellanea_en_US_dedes.misc.Mode4
-peVE.AposBoth.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposBoth.melody = ""
 peVE.AposBoth.incipit = pe.d110_en_US_dedes.peVE.LityGlory.incipit
 peVE.AposBoth.text = pe.d110_en_US_dedes.peVE.LityGlory.text
 

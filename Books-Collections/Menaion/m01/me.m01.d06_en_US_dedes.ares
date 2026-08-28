@@ -125,7 +125,7 @@ meVE.Aposticha3.text = "Today, the Creator of heaven and earth comes in the fles
 
 meVE.AposGlory.poet = poets_en_US_dedes.po.Theofanous
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "When the shining lamp, who…"
 meVE.AposGlory.text = "When the shining lamp, who was born of a barren woman, saw the Sun, who was born of a Virgin, asking to be baptized, he said to Him with fear and joy, “You, sanctify me, O Master, by Your divine Epiphany.”"
 

@@ -41,7 +41,7 @@ trVE.Stichera04.incipit = me.m02.d17_en_US_dedes.meVE.SticGlory.incipit
 trVE.Stichera04.text = me.m02.d17_en_US_dedes.meVE.SticGlory.text
 
 trVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "The devil used the tyrant…"
 trVE.SticGlory.text = "The devil used the tyrant, his fellow apostate, as his instrument. He gave him the foul idea, to attempt to defile the Orthodox people who were purifying themselves by fasting, by compelling them to eat foods that were polluted by pagan sacrifice. But you, O Saint, thwarted his plot with a wiser idea. You appeared to the Archbishop in a dream, and revealed to him the sinister plot, and how awful the consequences would be. For this we offer gratitude, and even call you savior; and every year we remember this miracle. And now we entreat you, O Martyr Theodore, to preserve us unharmed by the plots of the evil one, by your intercessions to God on our behalf."
 
@@ -941,7 +941,7 @@ trMA.Aposticha3.incipit = "…"
 trMA.Aposticha3.text = ""
 
 trMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "…"
 trMA.AposGlory.text = ""
 

@@ -31,7 +31,7 @@ peVE.Stichera03.incipit = "Being consumed by their jealousy…"
 peVE.Stichera03.text = "Being consumed by their jealousy, those Jews of old, who themselves * violated the Law of God, * found an opportunity and incentive to be deranged, * in the good works that You did, O gracious Lord. * They sought to kill You, the One who is true life, * for You had cured a man * who was paralyzed before and made him whole, * but You healed him on the Sabbath, which offended them."
 
 peVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode1
-peVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = pe.d092_en_US_dedes.peVE.LityGlory.incipit
 peVE.SticGlory.text = pe.d092_en_US_dedes.peVE.LityGlory.text
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.incipit = oc.m3.d2_en_US_dedes.ocVE.Aposticha3.incipit
 peVE.Aposticha3.text = oc.m3.d2_en_US_dedes.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode1
-peVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = pe.d092_en_US_dedes.peVE.Stichera09.incipit
 peVE.AposGlory.text = pe.d092_en_US_dedes.peVE.Stichera09.text
 
@@ -119,7 +119,7 @@ peMA.Aposticha3.incipit = "The Scribes who kept the…"
 peMA.Aposticha3.text = "The Scribes who kept the Sabbath failed to know that You were Lord * and Maker of the Sabbaths. * They grumbled that the healing * of the Paralytic was performed on the Sabbath. * They said that it was not right for one to carry his bed * on the day of the Sabbath."
 
 peMA.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode5
-peMA.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = pe.d092_en_US_dedes.peVE.SticGlory.incipit
 peMA.AposGlory.text = pe.d092_en_US_dedes.peVE.SticGlory.text
 

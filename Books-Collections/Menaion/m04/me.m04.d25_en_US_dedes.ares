@@ -58,7 +58,7 @@ meVE.Stichera06.text = ""
 meVE.MM.Stichera1234as78910.text = properties_en_US_dedes.media.key
 
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Grace was poured upon your…"
 meVE.SticGlory.text = "Grace was poured upon your lips, O Apostle Mark, and you became a shepherd of the Church of Christ, teaching the reasonable sheep to believe in the Trinity, coessential, in one Divinity."
 
@@ -79,7 +79,7 @@ meVE.Aposticha3.incipit = "Apostle of Christ, all-blessed Mark…"
 meVE.Aposticha3.text = "Apostle of Christ, all-blessed Mark, * you proclaimed the Gospel there where once the folly of false religion mightily prevailed. * As you preached the true God, * You dispelled the darkness of Egyptians and your words shined their light on them. Entreat the Lord for us, * supplicating that surpassing peace * and great mercy * be upon our souls bestowed."
 
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode8
-meVE.AposGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Come all, and with psalms…"
 meVE.AposGlory.text = "Come all, and with psalms and hymns let us extol Mark, that herald of the heavenly revelation, that oracle of the Gospel. He was like a river in the spiritual Garden of Eden, irrigating souls like fields with heavenly showers, and making them bear fruit for Christ God, who by the intercessions of this Evangelist grants to everyone forgiveness and the great mercy."
 
