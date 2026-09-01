@@ -81,8 +81,8 @@ meVE.Lity2.text = ""
 meVE.LityGlory.poet = poets_en_US_dedes.po.Germanou
 meVE.LityGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.LityGlory.melody = ""
-meVE.LityGlory.incipit = "…"
-meVE.LityGlory.text = ""
+meVE.LityGlory.incipit = "To the supermundane…"
+meVE.LityGlory.text = "To the supermundane tabernacles, Christ God took your spirit blameless, O wise Martyr Demetrios. For you became a champion of the Trinity, courageously competing in the stadium like a mighty man of steel. By a lance you were pierced in your immaculate side, O all-venerable one; and thereby imitating the Lord who was stretched upon a cross for the salvation of the entire world, you received the power of performing miracles, and thus abundantly provide healings to people. Therefore as we celebrate your repose today, we worthily glorify the Lord who glorified you."
 
 meVE.LityBoth.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.LityBoth.melody = ""
@@ -151,8 +151,8 @@ meMA.Kathisma21.text = "With unwavering faith did the Champion of Christ * brave
 
 meMA.Kathisma2T.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.Kathisma2T.melody = he.a.m5_en_US_dedes.heAU.TonSynanarchonLogon.name
-meMA.Kathisma2T.incipit = "O impassable gateway of God…"
-meMA.Kathisma2T.text = "O impassable gateway of God the Lord, rejoice; * wall and shelter of those who take refuge in you. * Stormless haven, rejoice, O Maid who knew not man * and yet physically gave birth to your Creator and God. * Never cease interceding * on behalf of those extolling and worshiping the Son you bore."
+meMA.Kathisma2T.incipit = oc.m5.d1_en_US_dedes.ocVE.ApolTheotokionVM.incipit
+meMA.Kathisma2T.text = oc.m5.d1_en_US_dedes.ocVE.ApolTheotokionVM.text 
 
 meMA.Kathisma31.mode = miscellanea_en_US_dedes.misc.Mode3
 meMA.Kathisma31.greekmelody = he.a.m3_en_US_dedes.heAU.TinOraiotita.greekname
@@ -177,8 +177,10 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = "To the supermundane tabernacles, Christ…"
-meMA.PostGospelIdiomelon.text = "To the supermundane tabernacles, Christ God took your spirit blameless, O wise Martyr Demetrios. For you became a champion of the Trinity, courageously competing in the stadium like a mighty man of steel. By a lance you were pierced in your immaculate side, O all-venerable one; and thereby imitating the Lord who was stretched upon a cross for the salvation of the entire world, you received the power of performing miracles, and thus abundantly provide healings to people. Therefore as we celebrate your repose today, we worthily glorify the Lord who glorified you."
+meMA.PostGospelIdiomelon.incipit = me.m10.d26_en_US_dedes.meVE.LityGlory.incipit
+meMA.PostGospelIdiomelon.text = me.m10.d26_en_US_dedes.meVE.LityGlory.text
+meMA.PostGospelIdiomelon.incipit = me.m10.d26_en_US_dedes.meVE.LityGlory.incipit
+meMA.PostGospelIdiomelon.text = me.m10.d26_en_US_dedes.meVE.LityGlory.text
 
 meMA.C1.acrostic.title = "Canon for the Earthquake."
 meMA.C1.acrostic.notice1 = ""
@@ -921,8 +923,8 @@ meMA.Lauds1.text = "Come now to us, O Martyr of Christ, * as we entreat you to r
 
 meMA.Lauds2.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.Lauds2.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
-meMA.Lauds2.incipit = "Martyr, you are for us…"
-meMA.Lauds2.text = "Martyr, you are for us like a wall * that is undaunted by the enemy’s batt’ring rams. * For you bring to naught the inroads of the barbarian hordes. * You suppress the symptoms of all sicknesses. * A footing immovable, a foundation unshakable, * founder and patron of your City have you become, * O Demetrios, and her champion and guardian. * Therefore, as she is currently in grave danger, holy one, * and she is sorely exhausted, ever preserve her, all-blessed one, * through your intercessions, * supplicating Christ who grants His great mercy to the world."
+meMA.Lauds2.incipit = "…"
+meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.Lauds3.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
