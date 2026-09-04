@@ -75,13 +75,13 @@ meVE.SticStavrotheotokion.text = oc.m6.d4_en_US_dedes.ocVE.AposTheotokion.text
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Aposticha1.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
 meVE.Aposticha1.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
-meVE.Aposticha1.incipit = "Medaled Athlete, Great-martyr George…"
+meVE.Aposticha1.incipit = "Medaled Athlete…"
 meVE.Aposticha1.text = "Medaled Athlete, Great-martyr George, * as you live with the Angels now * and the other Martyrs, and as you are each day * a place of refuge for those in need, * I pray you to be for me, * who am on the sea of life, * like a haven of cool relief. Also I implore, * be my life’s guide and pilot, so that I may praise your supernatural contests * with incontestable faith and love."
 
 meVE.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
-meVE.Aposticha2.incipit = me.m04.d23_en_US_dedes.meVE.Stichera06.incipit
-meVE.Aposticha2.text = me.m04.d23_en_US_dedes.meVE.Stichera06.text
+meVE.Aposticha2.incipit = "Guard me always…"
+meVE.Aposticha2.text = "Guard me always and everywhere, * when I travel by any means, * walking, driving, flying, and when I sleep at night. * And when I wake, keep me safe and sound, all-blessed Great-martyr George. * Help me to fulfill the will * and commandments of God my Lord, * so that I who run * to your mighty protection be forgiven of the sins I have committed * throughout my lifetime, on Judgment Day."
 
 meVE.Aposticha3.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
