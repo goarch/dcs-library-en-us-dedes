@@ -139,7 +139,7 @@ meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "December 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = "December 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Holy Hieromartyr Efthymios" //full title of day
 alt1.meDA.commemoration.first_short = ""
 alt1.meDA.commemoration.first_title = ""

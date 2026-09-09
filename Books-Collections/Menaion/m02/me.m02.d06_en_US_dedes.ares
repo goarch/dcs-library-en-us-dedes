@@ -461,7 +461,7 @@ meMA.Ode3KathismaSt.melody = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
 meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = ""
 
-alt1.meDA.date = "February 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = "February 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of our Father among the Saints Photios, Patriarch of Constantinople, the Equal to the Apostles and Confessor." // full title of day
 alt1.meDA.commemoration.first_short = "Memory of St. Photios the Great"
 alt1.meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintM
@@ -997,7 +997,7 @@ alt1.meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 alt1.meLI.Megalynarion.text = "Most luminous mystic of the Church of Christ, * champion and defender * of the Orthodox everywhere, * scourge of the impious, the glory of the hierarchs, * great priest and theologian, * St. Photios, rejoice."
 
-alt2.meDA.date = "February 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt2.meDA.date = "February 6" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt2.meDA.commemoration.full = "Memory of our Devout and God-bearing Fathers Barsanouphios the Great Elder and John the Prophet, the other Elder and Disciple of St. Barsanouphios." // full title of day
 alt2.meDA.commemoration.first_short = "Sts. Barsanouphios and John"
 alt2.meDA.commemoration.first_title = titles_en_US_dedes.ti.Saints

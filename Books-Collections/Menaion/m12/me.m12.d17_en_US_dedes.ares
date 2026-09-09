@@ -585,7 +585,7 @@ meLI.Kontakion1.text = me.m12.d17_en_US_dedes.meMA.Kontakion1.text
 meLI.Megalynarion.text = ""
 meLI.Megalynarion2.text = ""
 
-alt1.meDA.date = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = "December 17" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of our Father among the Saints Dionysios the New, Archbishop of Aegina, the Wonderworker, from the Island of Zakynthos" //full title of day
 alt1.meDA.commemoration.first_short = "Memory of St. Dionysios Archbishop of Aegina"
 alt1.meDA.commemoration.first_title = "For St. Dionysios."

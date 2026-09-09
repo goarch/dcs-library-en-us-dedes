@@ -604,7 +604,7 @@ meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "September 3" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = "September 3" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of the Disinterment of the precious Relics of our father among the saints Nektarios the Wonderworker, Bishop of Pentapolis" //full title of day
 alt1.meDA.commemoration.first_short = "Disinterment of the Relics of St. Nektarios of Pentapolis"
 alt1.meDA.commemoration.first_title = ""

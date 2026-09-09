@@ -375,7 +375,7 @@ meLI.Kontakion1.text = me.m02.d26_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "February 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = "February 26" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of the Holy Great-martyr and Equal to the Apostles St. Photini the Samaritan Woman" //full title of day
 alt1.meDA.commemoration.first_short = "Memory of the Holy Great-martyr Photini the Samaritan Woman"
 alt1.meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintW

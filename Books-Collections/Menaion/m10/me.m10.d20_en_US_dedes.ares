@@ -375,7 +375,7 @@ meLI.Kontakion1.text = me.m10.d20_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "October 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = "October 20" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of our Devout and God-bearing Father Gerasimos, the new Ascetic, the Wonderworker, who lived as an ascetic in Kephallenia" //full title of day
 alt1.meDA.commemoration.first_short = "Memory of our devout father Gerasimos of Kephallenia"
 alt1.meDA.commemoration.first_title = "For St. Gerasimos."

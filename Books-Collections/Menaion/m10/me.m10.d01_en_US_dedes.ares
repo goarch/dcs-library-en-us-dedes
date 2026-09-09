@@ -624,7 +624,7 @@ meLI.Kontakion1.text = me.m10.d01_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "Τῌ Αʹ ΟΚΤΩΒΡΙΟΥ"
+alt1.meDA.date = "Τῌ Αʹ ΟΚΤΩΒΡΙΟΥ"
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
 alt1.meDA.commemoration.first_title = ""

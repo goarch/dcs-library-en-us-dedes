@@ -348,7 +348,7 @@ meLI.Megalynarion.text = ""
 
 // -------------
 
-alt1.meDA.date = "July 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = "July 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of our Devout and God-bearing Father Paisios of the Holy Mountain Athos" // full title of day
 alt1.meDA.commemoration.second = "" // full title of day
 alt1.meDA.commemoration.first_short = "Memory of our Devout Father Paisios of the Holy Mountain Athos"
@@ -1150,7 +1150,7 @@ alt1.meLI.publication.gospel.text = ""
 
 //----------------------
 
-alt2.meDA.date = "July 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt2.meDA.date = "July 12" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt2.meDA.commemoration.full = "Memory of our Devout and God-bearing Father Paisios of the Holy Mountain Athos" // full title of day
 alt2.meDA.commemoration.second = "" // full title of day
 alt2.meDA.commemoration.first_short = ""

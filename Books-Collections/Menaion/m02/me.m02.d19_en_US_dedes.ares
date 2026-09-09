@@ -358,7 +358,7 @@ meLI.Kontakion1.text = me.m02.d19_en_US_dedes.meMA.Kontakion1.text
 
 meLI.Megalynarion.text = ""
 
-alt1.meDA.date = "February 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = "February 19" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 alt1.meDA.commemoration.full = "Memory of the Devout Martyr Philothea the Athenian" //full title of day
 alt1.meDA.commemoration.first_short = "Memory of St. Philothea the Athenian"
 alt1.meDA.commemoration.first_title = titles_en_US_dedes.ti.SaintW
