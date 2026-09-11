@@ -64,8 +64,8 @@ meVE.SticGlory.text = "Once again, the annual memory of those luminaries of the 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.SticTheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name
-meVE.SticTheotokion.incipit = oc.m6.d5_en_US_dedes.ocMA.AposTheotokion.incipit
-meVE.SticTheotokion.text = oc.m6.d5_en_US_dedes.ocMA.AposTheotokion.text
+meVE.SticTheotokion.incipit = "…"
+meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
