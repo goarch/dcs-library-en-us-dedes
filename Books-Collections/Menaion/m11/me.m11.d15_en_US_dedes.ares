@@ -89,8 +89,8 @@ meVE.AposGlory.text = "Come, all you fans of the Martyrs, let us sing hymns in h
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.AposTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
-meVE.AposTheotokion.incipit = me.m01.d22_en_US_dedes.meVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = me.m01.d22_en_US_dedes.meVE.AposTheotokion.text
+meVE.AposTheotokion.incipit = "…"
+meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname

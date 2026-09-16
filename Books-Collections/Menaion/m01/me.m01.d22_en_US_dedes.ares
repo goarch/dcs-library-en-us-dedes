@@ -86,8 +86,8 @@ meVE.AposGlory.text = "O Christ, You magnified the power of the precious Cross i
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.AposTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
 meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
-meVE.AposTheotokion.incipit = "Only you, O all-holy Bride…"
-meVE.AposTheotokion.text = "Only you, O all-holy Bride of God, * carried in your womb unconstricted the uncontainable God, * who became a man in His sublime benevolence. * Blessed Virgin, I therefore pray * and ask that you free me * from the force of sinful passions that constrict my soul, * so that being cured of the passions, * I may walk the straight and the narrow * way and find my destination, life on high."
+meVE.AposTheotokion.incipit = "…"
+meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.AposStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
