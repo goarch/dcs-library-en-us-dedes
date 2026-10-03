@@ -36,7 +36,7 @@ ocVE.Stichera6.text = "I am lying on the bed of my indifference, O blameless Mai
 
 ocVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
 ocVE.SticTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
-ocVE.SticTheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.notmetered
+ocVE.SticTheotokion.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 ocVE.SticTheotokion.incipit = "…"
 ocVE.SticTheotokion.text = ""
 

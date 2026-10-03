@@ -62,7 +62,7 @@ meVE.SticGlory.text = "With vigor you ran the race of ascetic discipline, and wi
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
-meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.notmetered
+meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 

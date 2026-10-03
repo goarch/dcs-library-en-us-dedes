@@ -47,7 +47,7 @@ meVE.SticTheotokion.text = "I sigh from the depths of my soul * when I recollect
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
-meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.notmetered
+meVE.SticStavrotheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticStavrotheotokion.incipit = me.m04.d01_en_US_dedes.meVE.SticStavrotheotokion2.incipit
 meVE.SticStavrotheotokion.text = me.m04.d01_en_US_dedes.meVE.SticStavrotheotokion2.text
 

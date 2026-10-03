@@ -25,9 +25,9 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
-meVE.Stichera01.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.notmetered
-meVE.Stichera01.incipit = "Holy Martyrs, you were illumined…"
-meVE.Stichera01.text = "Holy Martyrs, you were illumined by the glow of the tri-solar Godhead, and you ran past the tortures. You have become bright stars that ever shine in the firmament of the Church. We therefore observe your splendid feast, and we venerate the relics and the dust of your bodies."
+meVE.Stichera01.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
+meVE.Stichera01.incipit = "…"
+meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name

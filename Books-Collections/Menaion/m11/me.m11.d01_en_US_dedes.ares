@@ -651,7 +651,7 @@ meMA.AposTheotokion.text = oc.m8.d5_en_US_dedes.ocMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.greekname
-meMA.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.notmetered
+meMA.AposStavrotheotokion.melody = he.a.m8_en_US_dedes.heAU.OiMartyresSouKyrie.name
 meMA.AposStavrotheotokion.incipit = me.m01.d23_en_US_dedes.meVE.SticStavrotheotokion.incipit
 meMA.AposStavrotheotokion.text = me.m01.d23_en_US_dedes.meVE.SticStavrotheotokion.text
 

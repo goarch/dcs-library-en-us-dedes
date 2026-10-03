@@ -106,17 +106,17 @@ meVE.LityBoth.text = he.o_en_US_dedes.heOT.TheotokeSyEiDidaskalon.text
 
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
-meVE.Aposticha1.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.notmetered
+meVE.Aposticha1.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode5
-meVE.Aposticha2.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.notmetered
+meVE.Aposticha2.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 meVE.Aposticha2.incipit = "…"
 meVE.Aposticha2.text = ""
 
 meVE.Aposticha3.mode = miscellanea_en_US_dedes.misc.Mode5
-meVE.Aposticha3.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.notmetered
+meVE.Aposticha3.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 meVE.Aposticha3.incipit = "…"
 meVE.Aposticha3.text = ""
 

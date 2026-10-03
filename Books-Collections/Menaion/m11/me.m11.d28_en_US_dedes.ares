@@ -659,7 +659,7 @@ meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode3
 meMA.AposStavrotheotokion.greekmelody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.greekname
 meMA.AposStavrotheotokion.melody = he.a.m3_en_US_dedes.heAU.MegaliTouStavrouSou.notmetered
 meMA.AposStavrotheotokion.incipit = "All-pure one, a spear pierced…"
-meMA.AposStavrotheotokion.text = "All-pure one, a spear pierced your heart, when you looked at your Son on the Cross, and you cried out, “Do not leave me childless, O my Son and my God, * who kept me a virgin even after childbirth.”"
+meMA.AposStavrotheotokion.text = "All-pure one, a spear pierced your heart, when you looked at your Son on the Cross, and you cried out, “Do not leave me childless, O my Son and my God, who kept me a virgin even after childbirth.”"
 
 meLI.Kontakion1.mode = me.m11.d28_en_US_dedes.meMA.Kontakion1.mode
 meLI.Kontakion1.greekmelody = me.m11.d28_en_US_dedes.meMA.Kontakion1.greekmelody

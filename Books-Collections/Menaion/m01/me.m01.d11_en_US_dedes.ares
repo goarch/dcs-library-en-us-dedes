@@ -443,20 +443,20 @@ meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = miscellanea_en_US_dedes.misc.Mode5
-meMA.Lauds2.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.notmetered
+meMA.Lauds2.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
 meMA.Lauds2.incipit = "…"
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = miscellanea_en_US_dedes.misc.Mode5
-meMA.Lauds3.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.notmetered
-meMA.Lauds3.incipit = "You kindled in yourself the…"
-meMA.Lauds3.text = "You kindled in yourself the flame of ardent and fervent and unyielding love for God; and from heaven you received a beacon of fire in return, showing God’s good pleasure, which instructed you to build a most holy church, a school of virtue, and a training ground of souls. You started it, and piously finished it. * Now your body, which labored much, reposes there, and it is especially honored among the other sacred caskets. O all-blessed Father, entreat Christ to grant great mercy to our souls."
+meMA.Lauds3.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
+meMA.Lauds3.incipit = "…"
+meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_US_dedes.misc.Mode5
 meMA.Lauds4.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
-meMA.Lauds4.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.notmetered
-meMA.Lauds4.incipit = "O Theodosius, you have truly…"
-meMA.Lauds4.text = "O Theodosius, you have truly gone over to the wondrous tabernacle, the house of God, with joy and gladness, where are heard delightful sounds of festive songs, and the sweet voices of those who celebrate, and where you also are participating in joy of heart and ineffable delight. For you mortified the flesh, and desired only that joy; and having found it, O Father, you are adorned with God’s righteousness. Entreat Christ to grant great mercy on our souls."
+meMA.Lauds4.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
+meMA.Lauds4.incipit = "…"
+meMA.Lauds4.text = ""
 
 meMA.LaudsGlory.poet = poets_en_US_dedes.po.Anatoliou
 meMA.LaudsGlory.mode = miscellanea_en_US_dedes.misc.Mode2

@@ -47,7 +47,7 @@ meVE.SticGlory.text = "Thrice-blessed Theodore, I honor you as the namesake of d
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
-meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.notmetered
+meVE.SticTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
@@ -65,7 +65,7 @@ meVE.AposGlory.text = "You extend the God-given grace of your miracles to all wh
 
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode2
 meVE.AposTheotokion.greekmelody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.greekname
-meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.notmetered
+meVE.AposTheotokion.melody = he.a.m2_en_US_dedes.heAU.OteEkTouXylou.name
 meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = ""
 

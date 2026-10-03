@@ -41,19 +41,19 @@ meVE.Stichera03.text = me.m04.d30_en_US_dedes.meMA.Lauds3.text
 
 meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.Stichera04.greekmelody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.greekname
-meVE.Stichera04.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.notmetered
-meVE.Stichera04.incipit = "O Saints, you put all…"
-meVE.Stichera04.text = "O Saints, you put all mundane attachments behind you, and you despised wealth and abhored fleeting pleasure; then you took up the Cross, like a godly yoke, and you followed Christ, and you went to dwell in heavenly pastures. And now, as you delight there together, remember us who remember you in faith, and who with love and reverence observe your sacred and venerable memory."
+meVE.Stichera04.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
+meVE.Stichera04.incipit = "…"
+meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.Stichera05.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.notmetered
-meVE.Stichera05.incipit = "That famous husband and wife…"
-meVE.Stichera05.text = "That famous husband and wife couple loved You completely from the depths of their soul, O Master, and they ran after You; and they left behind all delights, and they broke their attachment to them, as if it were a spiders’s web. That is why they obtained Your kingdom, O immortal King. By their entreaties, will You, O merciful Lord, grant me forgiveness of offenses, and give me the upper hand against the passions that perturb my soul each day."
+meVE.Stichera05.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
+meVE.Stichera05.incipit = "…"
+meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.Stichera06.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.notmetered
-meVE.Stichera06.incipit = "You were deprived of your…"
-meVE.Stichera06.text = "You were deprived of your two beloved children, by an inscrutable command from on high; and your life was inconsolable. Then you uttered those brave words of Job and cried out, “The Lord gave, and the Lord has taken away.” And with this, you easily accomplished the labor you longed to do: you joyfully moved to the deserts and the Holy Land, and you were a most sacred couple."
+meVE.Stichera06.melody = he.a.m6_en_US_dedes.heAU.OlinApothemenoi.name
+meVE.Stichera06.incipit = "…"
+meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = poets_en_US_dedes.po.Theofanous
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode4
@@ -63,9 +63,9 @@ meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.SticTheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
-meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
-meVE.SticTheotokion.incipit = "The Judge has arrived…"
-meVE.SticTheotokion.text = "The Judge has arrived, and the trial is ready to begin; death is at hand, the ministers are ready, and everything is prepared. So what will you do, O my soul? What are you waiting for? Cry out: “Our God, O God of mercy, take pity on my, by the intercessions of Your Mother, and deliver me from perdition and all punishment.”"
+meVE.SticTheotokion.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
+meVE.SticTheotokion.incipit = "…"
+meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
@@ -80,9 +80,9 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.AposTheotokion.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname
-meVE.AposTheotokion.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.notmetered
-meVE.AposTheotokion.incipit = "O all-blameless Mother of God…"
-meVE.AposTheotokion.text = "O all-blameless Mother of God, rescue me from the sword of the enemies. For by you, pure Virgin, and by your Son, all the power of the devil is destroyed, and the might of demonic forces is vanquished, and salvation and rest from labors come to those who believe in your Son. Therefore I cry out to you: O Lady, declare war on those who continually war against me, and exact revenge on them for the evil they did before, by which they were the cause of all my woes."
+meVE.AposTheotokion.melody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.name
+meVE.AposTheotokion.incipit = "…"
+meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode5
 meVE.AposStavrotheotokion.greekmelody = he.a.m5_en_US_dedes.heAU.ChairoisAskitikon.greekname

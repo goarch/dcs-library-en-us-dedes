@@ -625,7 +625,7 @@ meMA.Exaposteilarion1.text = "Theologizing you proclaimed * the Trinity’s one 
 
 meMA.Exaposteilarion2.mode = miscellanea_en_US_dedes.misc.Mode2
 meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.greekname
-meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.notmetered
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_dedes.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 

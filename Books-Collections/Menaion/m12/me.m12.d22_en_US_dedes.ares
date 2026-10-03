@@ -41,17 +41,17 @@ meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = miscellanea_en_US_dedes.misc.Mode1
 meVE.Stichera04.greekmelody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.greekname
-meVE.Stichera04.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.notmetered
+meVE.Stichera04.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meVE.Stichera04.incipit = "…"
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = miscellanea_en_US_dedes.misc.Mode1
-meVE.Stichera05.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.notmetered
+meVE.Stichera05.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meVE.Stichera05.incipit = "…"
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = miscellanea_en_US_dedes.misc.Mode1
-meVE.Stichera06.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.notmetered
+meVE.Stichera06.melody = he.a.m1_en_US_dedes.heAU.PaneffimoiMartyres.name
 meVE.Stichera06.incipit = "…"
 meVE.Stichera06.text = ""
 
