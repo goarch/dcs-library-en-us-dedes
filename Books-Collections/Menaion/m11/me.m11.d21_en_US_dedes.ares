@@ -40,28 +40,28 @@ meSV.Stichera3.text = ""
 
 meSV.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode8
 meSV.SticGlory.melody = ""
-meSV.SticGlory.incipit = "O immaculate Maiden, David foresaw…"
+meSV.SticGlory.incipit = "O immaculate Maiden…"
 meSV.SticGlory.text = "O immaculate Maiden, David foresaw your entry and dedication into the temple, and he spoke prophetically about you. The ends of the earth celebrate this today, and they glorify you, all-lauded Lady, Mother of the Logos and of life, who were a virgin before giving birth, and remained unaltered after childbirth. Today, you make your entry into the Temple. And Zacharias rejoices as he welcomes you, and the Holy of Holies celebrate as they receive you the nurse of our Life. And we also sing hymns to you. Entreat your Son and our God, to grant us His great mercy."
 
 meSV.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meSV.Aposticha1.incipit = "Open, O Temple gates, *…"
+meSV.Aposticha1.incipit = "Open, O Temple gates…"
 meSV.Aposticha1.text = "Open, O Temple gates, * receive the holy Virgin * into the Holy of Holies. * She is the undefiled tabernacle of Almighty God."
 
 meSV.Aposticha2.mode = miscellanea_en_US_dedes.misc.Mode2
 meSV.Aposticha2.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meSV.Aposticha2.incipit = "Gaily with lamps in hand…"
+meSV.Aposticha2.incipit = "Gaily with lamps…"
 meSV.Aposticha2.text = "Gaily with lamps in hand, * O virgin maidens, escort * to the Holy of Holies * the pure and holy Virgin, * the Bride of God the King of all."
 
 meSV.Aposticha3.mode = miscellanea_en_US_dedes.misc.Mode2
 meSV.Aposticha3.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meSV.Aposticha3.incipit = "She is for God the…"
+meSV.Aposticha3.incipit = "She is for God…"
 meSV.Aposticha3.text = "She is for God the Word * a spiritual chamber; * and dwelling in the Holy * of Holies, from the hand of an Angel she is given bread."
 
 meSV.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode2
 meSV.AposGlory.melody = he.a.m2_en_US_dedes.heAU.OikosTouEfratha.name
-meSV.AposGlory.incipit = "When the thrice-radiant Light *…"
-meSV.AposGlory.text = "When the thrice-radiant Light * had lit you, Theotokos, * it sent you food from heaven * in His glorious Temple, * and magnified you worthily."
+meSV.AposGlory.incipit = "When the thrice-radiant…"
+meSV.AposGlory.text = "When the thrice-radiant Light * illumined you, O Virgin, * it sent you food from heaven * in His glorious Temple, * and magnified you worthily."
 
 meVE.Stichera01.mode = miscellanea_en_US_dedes.misc.Mode1
 meVE.Stichera01.greekmelody = he.a.m1_en_US_dedes.heAU.OTouParadoxouThavmatos.greekname
@@ -89,17 +89,17 @@ meVE.Stichera04.text = "Now the holy and blameless girl * to the Holy of Holies 
 
 meVE.Stichera05.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera05.incipit = "The young maidens, rejoicing now…"
+meVE.Stichera05.incipit = "The young maidens…"
 meVE.Stichera05.text = "The young maidens, rejoicing now * with processional lamps in hand, * go before the Virgin, the spiritual lamp. * Singing with gladness they bring her to * the Temple of God today, * sacredly foretokening * the ineffable radiance * that in coming years * will shine forth from her womb and will enlighten in the Spirit all the people * sitting in darkness of ignorance."
 
 meVE.Stichera06.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
-meVE.Stichera06.incipit = "With great joy did the…"
+meVE.Stichera06.incipit = "With great joy…"
 meVE.Stichera06.text = "With great joy did the venerable * aged Anna cry out and say, * “Zacharias, welcome today the Virgin, whom * inspired Prophets of God announced; * and bring her into the Lord’s * holy Temple, there to dwell * and be sacredly fed and reared, so that she become * the divine throne and palace and the royal bed and brightly shining dwelling * of the Master of the universe.”"
 
 meVE.SticGlory.mode = miscellanea_en_US_dedes.misc.Mode8
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "After you were born, O…"
+meVE.SticGlory.incipit = "After you were born…"
 meVE.SticGlory.text = "After you were born, O Lady Bride of God, you went to the Temple of the Lord to be raised in the Holy of Holies, as one who was sanctified. Then Gabriel was sent to you, the all-blameless one, and he brought you food. All beings in heaven were astounded, seeing the Holy Spirit dwelling in you. Therefore, O spotless and unstained Mother of God, glorified in heaven and on earth, ever keep us safe."
 
 meVE.Lity1.poet = poets_en_US_dedes.po.GeorgiouNikomideias
