@@ -126,9 +126,6 @@ meVE.AposGlory.incipit = "O believers, let us sing…"
 meVE.AposGlory.text = "O believers, let us sing hymns in honor of Athanasius and Cyril, the pinnacles of the hierarchs and the luminaries of the world. And let us joyfully cry out to Christ, “O compassionate Lord, at the entreaties of Your Teachers, grant to Your people the forgiveness of sins and the great mercy.”"
 
 meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
-meVE.AposTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiIerarchou.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode3
 meVE.Apolytikion1.greekmelody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.greekname

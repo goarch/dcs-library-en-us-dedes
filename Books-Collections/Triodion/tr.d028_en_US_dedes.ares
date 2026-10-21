@@ -920,11 +920,6 @@ trMA.LaudsGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
 trMA.LaudsGlory.incipit = me.m02.d17_en_US_dedes.meMA.LaudsGlory.incipit
 trMA.LaudsGlory.text = me.m02.d17_en_US_dedes.meMA.LaudsGlory.text
 
-trMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-trMA.LaudsTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-trMA.LaudsTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-trMA.LaudsTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiAthloforou.text
-
 trMA.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode3
 trMA.Aposticha1.melody = miscellanea_en_US_dedes.misc.Idiomelon
 trMA.Aposticha1.incipit = "…"

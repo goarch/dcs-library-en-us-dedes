@@ -46,11 +46,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "You were a canonical priest…"
 meVE.SticGlory.text = "You were a canonical priest until the end, O blessed Eleftherios; for you performed the divine and ineffable sacraments, and then spilled your own blood for Christ God, and thus you offered yourself as an acceptable sacrifice. Since you now have confidence before Him, earnestly pray for those who loyally observe and honor your ever-venerable memory, that they be delivered from temptations, and from every peril and from difficult times."
 
-meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiAthloforou.text
-
 meVE.SticBoth.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.SticBoth.melody = ""
 meVE.SticBoth.incipit = me.m12.d06_en_US_dedes.meVE.SticBoth.incipit

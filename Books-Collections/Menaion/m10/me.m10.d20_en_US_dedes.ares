@@ -62,11 +62,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Today the entire civilized world…"
 meVE.AposGlory.text = "Today the entire civilized world is illumined by the rays of the champion Martyr. And the Church of Christ, adorned with blossoms, O St. Artemius, cries out to you: O companion of Christ and our own protector, cease not to intercede for us who serve you."
 
-meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiAthloforou.text
-
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name

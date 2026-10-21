@@ -117,11 +117,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "O Martyr, you were adorned…"
 meVE.AposGlory.text = "O Martyr, you were adorned with virtue and illumined in mind. You pour fragrance into the hearts of the faithful. You rose from the East like bright shining star. You gathered around you the Council of the holy Fathers, through the descent of the Holy Spirit. We pray you never cease imploring the Lord on our behalf, O all-lauded Euphemia, for the salvation of our souls."
 
-meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiAthliforou.text
-
 meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode3
 meVE.Apolytikion1.greekmelody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.greekname
 meVE.Apolytikion1.melody = he.a.m3_en_US_dedes.heAU.TheiasPisteos.name

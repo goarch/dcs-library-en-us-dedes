@@ -46,11 +46,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "O Jude, your brothers extol…"
 meVE.SticGlory.text = "O Jude, your brothers extol you, for you appeared to be a brother of the Logos, who before the ages shone forth from the unoriginate Father, and in later times ineffably became incarnate of the holy Virgin and became man. O Apostle, earnestly entreat Him, to give peace to the world, and to us who honor you, forgiveness of offenses and the great mercy."
 
-meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiApostolou.text
-
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_dedes.heAU.TriimerosAnestis.name

@@ -740,11 +740,6 @@ meMA.LaudsGlory.melody = miscellanea_en_US_dedes.misc.Idiomelon
 meMA.LaudsGlory.incipit = "Star of stars, the Forerunner…"
 meMA.LaudsGlory.text = "Star of stars, the Forerunner, from a barren womb is born on earth today: John, yes, John loved by God. And he manifests the resplendent dawning of Christ, the Orient from on high, for the straight passage of the faithful."
 
-meMA.LaudsTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meMA.LaudsTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meMA.LaudsTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiProdromou.text
-
 meMA.MM.Lauds1234as5678.text = properties_en_US_dedes.media.key
 
 meLI.Kontakion1.mode = me.m06.d24_en_US_dedes.meMA.Kontakion1.mode

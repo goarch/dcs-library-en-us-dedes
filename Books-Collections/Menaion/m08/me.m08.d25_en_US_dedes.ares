@@ -60,11 +60,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "After being dead for many…"
 meVE.SticGlory.text = "After being dead for many years, you departed from the East, O all-lauded Bartholomew; and as the Psalm says, you made your way in the sea, and your paths in many waters. For the righteous live forever, by the providence of your Teacher, Christ our God. O Apostle, entreat Him to grant us the great mercy."
 
-meVE.SticTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiApostolon.text
-
 meVE.AposGlory.mode = miscellanea_en_US_dedes.misc.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "O Apostle Titus, you were…"

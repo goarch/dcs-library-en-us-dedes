@@ -69,11 +69,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Rejoice in the Lord, O…"
 meVE.AposGlory.text = "Rejoice in the Lord, O Stephen, wearing your crown, for you imitated the Master. You became the First Martyr of Christ our King, and you demolished the error of the unlawful Jews. We pray you to intercede with the Lord on our behalf."
 
-meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiApostolou.text
-
 meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Apolytikion1.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name

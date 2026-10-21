@@ -73,11 +73,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = ""
 
-meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiApostolou.text
-
 meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode3
 meVE.Apolytikion1.common = he.ga_en_US_dedes.heGA.ApostoleAgie.name
 meVE.Apolytikion1.incipit = "O holy Apostle…"

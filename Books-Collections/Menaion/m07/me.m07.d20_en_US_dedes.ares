@@ -111,11 +111,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "O Prophet and herald of…"
 meVE.AposGlory.text = "O Prophet and herald of Christ, you are never away from the throne of majesty, and still you are ever at the side of every sick person. You minister in the heights, and you bless the whole world, and you are everywhere glorified. O Elias, pray for the forgiveness of our souls."
 
-meVE.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_dedes.heOT.TheotokeSyEiProfitou.text
-
 meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode4
 meVE.Apolytikion1.greekmelody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
