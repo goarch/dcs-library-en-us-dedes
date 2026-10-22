@@ -80,11 +80,6 @@ meVE.LityGlory.melody = ""
 meVE.LityGlory.incipit = "…"
 meVE.LityGlory.text = ""
 
-meVE.LityBoth.mode = miscellanea_en_US_dedes.misc.Mode6
-meVE.LityBoth.melody = he.o_en_US_dedes.heOT.TheotokeSyEi.name
-meVE.LityBoth.incipit = he.o_en_US_dedes.heOT.TheotokeSyEi.incipit
-meVE.LityBoth.text = he.o_en_US_dedes.heOT.TheotokeSyEiAnargyron.text
-
 meVE.Aposticha1.mode = miscellanea_en_US_dedes.misc.Mode1
 meVE.Aposticha1.greekmelody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_dedes.heAU.TonOuranionTagmaton.name
