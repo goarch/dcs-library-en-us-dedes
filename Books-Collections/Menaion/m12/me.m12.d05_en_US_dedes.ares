@@ -146,15 +146,17 @@ meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.incipit = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m8.d1_en_US_dedes.ocVE.AposTheotokion.text
 
-meVE.Apolytikion1ger.poet = poets_en_US_dedes.po.Gerasimou
-meVE.Apolytikion1ger.mode = miscellanea_en_US_dedes.misc.Mode1
-meVE.Apolytikion1ger.greekmelody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.greekname
-meVE.Apolytikion1ger.melody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
+meVE.Apolytikion1.mode = miscellanea_en_US_dedes.misc.Mode8
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.incipit = "With the rivers…"
+meVE.Apolytikion1.text = "With the rivers of your tears you made the barren desert bloom; and with your sighs from deep within, you made your labors bear their fruits a hundredfold; and you became a star, illuminating the world by your miracles, O Savas, our devout father. Intercede with Christ our God, for the salvation of our souls."
 
-meVE.GeneralApolytikion1.name = "Savas,"
-meVE.MM.GeneralApolytikion1.text = properties_en_US_dedes.media.key
+meVE.Apolytikion2ger.poet = poets_en_US_dedes.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_US_dedes.misc.Mode1
+meVE.Apolytikion2ger.greekmelody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.greekname
+meVE.Apolytikion2ger.melody = he.a.m1_en_US_dedes.heAU.TisErimouPolitis.name
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_dedes.misc.Mode1
 meMA.Kathisma11.greekmelody = he.a.m1_en_US_dedes.heAU.TonTafonSouSotir.greekname
