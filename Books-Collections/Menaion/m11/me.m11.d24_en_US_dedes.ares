@@ -109,8 +109,8 @@ meMA.Kathisma11.text = me.m11.d20_en_US_dedes.meMA.Kontakion1.text
 meMA.Kathisma21.mode = miscellanea_en_US_dedes.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_dedes.heAU.KateplagiIosif.notmetered
-meMA.Kathisma21.incipit = "Mary the Theotokos, who is…"
-meMA.Kathisma21.text = "Mary the Theotokos, who is likened to a undefiled ewe-lamb and a spotless bridal chamber, is with great joy wondrously led into the house of God. Angels of God splendidly escort her. All the faithful ever call her blessed, and with gratitude they unceasingly sing to her in a loud voice: “You are our glory and our salvation, O all-immaculate Virgin.”"
+meMA.Kathisma21.incipit = "…"
+meMA.Kathisma21.text = ""
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
