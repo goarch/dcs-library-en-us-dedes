@@ -367,8 +367,8 @@ meMA.AposGlory.text = ""
 meMA.AposTheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.AposTheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.greekname
 meMA.AposTheotokion.melody = he.a.m8_en_US_dedes.heAU.OTouParadoxou.notmetered
-meMA.AposTheotokion.incipit = "O Lady, drive every vice…"
-meMA.AposTheotokion.text = "O Lady, drive every vice out of my humble soul: laziness, imperfection, carelessness, thoughtlessness, prodigality, promiscuity, contention, grievous disobedience to the commandments of the Holy Spirit; and also all insatiableness, ignorance, unsympathetic attitude, and unconscionable opinions, and save me."
+meMA.AposTheotokion.incipit = "…"
+meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_dedes.misc.Mode8
 meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_dedes.heAU.KyrieEiKaiKritirio.greekname
